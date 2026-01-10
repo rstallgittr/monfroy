@@ -1,3 +1,8 @@
+---
+layout: default
+title: Inspiration Home
+---
+
 <!DOCTYPE html>
 <html lang="en">
 <head>

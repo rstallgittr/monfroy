@@ -1,37 +1,89 @@
-.insp-btn {
-  display: inline-block;      /* Makes link behave like a button without being block-level */
-  padding: 0.6rem 1.2rem;    /* Space inside the button (vertical + horizontal) */
-  background: #0073ff;       /* Primary blue color for the button */
-  color: #fff;               /* White text for contrast */
-  text-decoration: none;     /* Removes underline from links */
-  border-radius: 6px;        /* Rounded corners for a modern look */
-  font-size: 1rem;           /* Standard readable font size */
-  font-family: system-ui, sans-serif; /* Clean, system-default font for cross-platform consistency */
+/* ============================
+   Global site text and layout
+   ============================ */
+body {
+  font-family: 'Space Grotesk', system-ui, sans-serif; /* All text uses Space Grotesk with fallback */
+  padding: 2rem;                                       /* Space inside the page edges */
+  margin: 0;                                           /* Remove default browser margin */
+  background: #f6f7f9;                                 /* Light gray background for site */
+  color: #111;                                         /* Default text color for readability */
 }
 
-.insp-btn:hover {
-  background: #005fd1;       /* Darker blue on hover for visual feedback */
+/* ============================
+   Navigation / section buttons
+   ============================ */
+.nav-btn {
+  display: inline-block;                                /* Allows buttons to sit side-by-side */
+  padding: 0.6rem 1.2rem;                               /* Space inside button (top/bottom, left/right) */
+  background: #0073ff;                                  /* Primary blue button color */
+  color: #fff;                                          /* White text */
+  text-decoration: none;                                /* Remove underline from links */
+  border-radius: 6px;                                   /* Rounded corners */
+  font-size: 1rem;                                      /* Readable text size */
+  font-family: 'Space Grotesk', system-ui, sans-serif;  /* Ensure font matches site text */
+}
+
+.nav-btn:hover {
+  background: #005fd1;                                  /* Darker blue on hover for visual feedback */
 }
 
 .buttons {
-  margin-bottom: 1rem;       /* Adds spacing below the container holding buttons */
+  margin-bottom: 1rem;                                  /* Adds space below button groups */
 }
 
-body {
-  font-family: system-ui, sans-serif; /* Global font for all page text */
-  padding: 2rem;                      /* Space between content and browser edges */
+/* ============================
+   Back to Home button
+   ============================ */
+.home-btn {
+  display: inline-block;                                /* Inline button behavior */
+  padding: 0.4rem 0.8rem;                               /* Slightly smaller padding than nav buttons */
+  background: #888;                                     /* Gray button color for secondary action */
+  color: #fff;                                          /* White text */
+  text-decoration: none;                                /* Remove underline */
+  border-radius: 4px;                                   /* Slightly smaller rounding */
+  font-size: 0.9rem;                                    /* Slightly smaller font for secondary button */
+  font-family: 'Space Grotesk', system-ui, sans-serif;  /* Match site font */
+  margin-bottom: 1rem;                                  /* Space below button */
 }
 
+.home-btn:hover {
+  background: #555;                                     /* Darker gray on hover for visual feedback */
+}
+
+/* ============================
+   Trivia / round content
+   ============================ */
 .round {
-  margin-bottom: 3rem;        /* Adds spacing between trivia rounds */
+  margin-bottom: 3rem;                                  /* Space between each trivia round */
 }
 
 .round h2 {
-  margin-bottom: 1rem;        /* Extra spacing after round headings */
+  margin-bottom: 1rem;                                  /* Space below round heading */
 }
 
 .round img {
-  max-width: 100%;            /* Ensures images are responsive and don’t overflow */
-  height: auto;               /* Maintains image aspect ratio */
-  border-radius: 8px;         /* Soft corners for images */
+  max-width: 100%;                                      /* Responsive width for images */
+  height: auto;                                        /* Maintain aspect ratio */
+  border-radius: 8px;                                   /* Rounded corners for images */
+}
+
+/* ============================
+   Video container (responsive 16:9)
+   ============================ */
+.video {
+  position: relative;                                   /* Required for iframe absolute positioning */
+  padding-top: 56.25%;                                  /* 16:9 aspect ratio trick */
+  background: #000;                                     /* Black background for videos */
+  border-radius: 8px;                                   /* Rounded corners around video */
+  overflow: hidden;                                     /* Clip overflowing content */
+  box-shadow: 0 6px 18px rgba(0,0,0,0.12);             /* Subtle drop shadow for depth */
+  margin-bottom: 1rem;                                  /* Space below video */
+}
+
+.video iframe {
+  position: absolute;                                   /* Fill container */
+  inset: 0;                                             /* Top, bottom, left, right = 0 */
+  width: 100%;                                          /* Full width */
+  height: 100%;                                         /* Full height */
+  border: 0;                                            /* Remove default iframe border */
 }

@@ -12,8 +12,8 @@ This is my homepage.
 [Oblique Strategies](https://itissimplyamatterofwork.com/){:target="_blank" rel="noopener noreferrer"}
 
 <div class="buttons">
-  <a href="/inspiration" class="insp-btn">Inspiration</a>
-  <a href="/trivia" class="insp-btn">Trivia</a>
+  <a href="/inspiration" class="nav-btn">Inspiration</a>
+  <a href="/trivia" class="nav-btn">Trivia</a>
 </div>
 
 <video controls width="600">

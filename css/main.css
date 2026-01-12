@@ -1,37 +1,37 @@
 .insp-btn {
-  display: inline-block;
-  padding: 0.6rem 1.2rem;
-  background: #0073ff;
-  color: #fff;
-  text-decoration: none;
-  border-radius: 6px;
-  font-size: 1rem;
-  font-family: system-ui, sans-serif;
+  display: inline-block;      /* Makes link behave like a button without being block-level */
+  padding: 0.6rem 1.2rem;    /* Space inside the button (vertical + horizontal) */
+  background: #0073ff;       /* Primary blue color for the button */
+  color: #fff;               /* White text for contrast */
+  text-decoration: none;     /* Removes underline from links */
+  border-radius: 6px;        /* Rounded corners for a modern look */
+  font-size: 1rem;           /* Standard readable font size */
+  font-family: system-ui, sans-serif; /* Clean, system-default font for cross-platform consistency */
 }
 
 .insp-btn:hover {
-  background: #005fd1;
+  background: #005fd1;       /* Darker blue on hover for visual feedback */
 }
 
 .buttons {
-  margin-bottom: 1rem;
+  margin-bottom: 1rem;       /* Adds spacing below the container holding buttons */
 }
 
 body {
-  font-family: system-ui, sans-serif;
-  padding: 2rem;
+  font-family: system-ui, sans-serif; /* Global font for all page text */
+  padding: 2rem;                      /* Space between content and browser edges */
 }
 
 .round {
-  margin-bottom: 3rem;
+  margin-bottom: 3rem;        /* Adds spacing between trivia rounds */
 }
 
 .round h2 {
-  margin-bottom: 1rem;
+  margin-bottom: 1rem;        /* Extra spacing after round headings */
 }
 
 .round img {
-  max-width: 100%;
-  height: auto;
-  border-radius: 8px;
+  max-width: 100%;            /* Ensures images are responsive and don’t overflow */
+  height: auto;               /* Maintains image aspect ratio */
+  border-radius: 8px;         /* Soft corners for images */
 }

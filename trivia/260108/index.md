@@ -3,47 +3,19 @@ layout: default
 title: Trivia - January 8, 2026
 ---
 
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8" />
-    <title>Trivia</title>
-    <style>
-      body {
-        font-family: system-ui, sans-serif;
-        padding: 2rem;
-      }
-      .round {
-        margin-bottom: 3rem;
-      }
-      .round h2 {
-        margin-bottom: 1rem;
-      }
-      .round img {
-        max-width: 100%;
-        height: auto;
-        border-radius: 8px;
-      }
-    </style>
-  </head>
+# Trivia
 
-  <body>
-    <h1>Trivia</h1>
+<div class="round">
+  ## Round 1
+  ![Round 1 image](/media/morsecattle.jpg)
+</div>
 
-    <div class="round">
-      <h2>Round 1</h2>
-      <img src="/media/morsecattle.jpg" alt="Round 1 image">
-    </div>
+<div class="round">
+  ## Round 2
+  ![Round 2 image](/media/annieoakley.jpg)
+</div>
 
-    <div class="round">
-      <h2>Round 2</h2>
-      <img src="/media/annieoakley.jpg" alt="Round 2 image">
-    </div>
-
-    <div class="round">
-      <h2>Round 3</h2>
-      <img src="/media/davyjones.jpg" alt="Round 3 image">
-    </div>
-
-  </body>
-</html>
+<div class="round">
+  ## Round 3
+  ![Round 3 image](/media/davyjones.jpg)
+</div>

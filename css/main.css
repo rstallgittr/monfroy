@@ -1,0 +1,37 @@
+.insp-btn {
+  display: inline-block;
+  padding: 0.6rem 1.2rem;
+  background: #0073ff;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 6px;
+  font-size: 1rem;
+  font-family: system-ui, sans-serif;
+}
+
+.insp-btn:hover {
+  background: #005fd1;
+}
+
+.buttons {
+  margin-bottom: 1rem;
+}
+
+body {
+  font-family: system-ui, sans-serif;
+  padding: 2rem;
+}
+
+.round {
+  margin-bottom: 3rem;
+}
+
+.round h2 {
+  margin-bottom: 1rem;
+}
+
+.round img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+}

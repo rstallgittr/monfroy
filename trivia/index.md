@@ -12,4 +12,3 @@ title: Trivia Homepage
     {% endif %}
   {% endfor %}
 </ul>
-

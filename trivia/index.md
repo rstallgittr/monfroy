@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Trivia Homepage
+title: Trivia
 ---
 
 <p>Select a week:</p>

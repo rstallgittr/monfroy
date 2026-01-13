@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Trivia - January 8, 2026
+title: 2026.01.08
 ---
 
 # Trivia

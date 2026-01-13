@@ -5,17 +5,17 @@ title: 2026.01.08
 
 # Trivia
 
-<div class="round">
-  ## Round 1
-  ![Round 1 image](/media/morsecattle.jpg)
-</div>
 
-<div class="round">
-  ## Round 2
-  ![Round 2 image](/media/annieoakley.jpg)
-</div>
+## Round 1
+![Round 1 image](/media/trivia/260108/morsecattle.jpg)
 
-<div class="round">
-  ## Round 3
-  ![Round 3 image](/media/davyjones.jpg)
-</div>
+
+
+## Round 2
+![Round 2 image](/media/trivia/260108/annieoakley.jpg)
+
+
+
+## Round 3
+![Round 3 image](/media/trivia/260108/davyjones.jpg)
+

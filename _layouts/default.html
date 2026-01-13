@@ -15,7 +15,9 @@
   </head>
   <body>
     <nav>
-      <a href="/" class="home-btn">← Back to Home</a>
+      {% if page.show_home_button != false %}
+        <a href="/" class="home-btn">← Back to Home</a>
+      {% endif %}
     </nav>
 
     <main>

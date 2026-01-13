@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+show_home_button: false
 ---
 
 # I am currently happy to be here on Earth!

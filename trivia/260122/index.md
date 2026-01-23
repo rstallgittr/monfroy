@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 2026.01.22
+show_trivia_home_button: true
 ---
 
 # Trivia

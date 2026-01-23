@@ -8,14 +8,14 @@ show_trivia_home_button: true
 
 
 ## Round 1
-![Round 1 image](/media/trivia/260108/morsecattle.jpg)
+![Round 1 image](/media/trivia/260122/wimhof.jpg)
 
 
 
 ## Round 2
-![Round 2 image](/media/trivia/260108/annieoakley.jpg)
+![Round 2 image](/media/trivia/260122/nikes.jpg)
 
 
 
 ## Round 3
-![Round 3 image](/media/trivia/260108/davyjones.jpg)
+![Round 3 image](/media/trivia/260122/penguin.mp4)

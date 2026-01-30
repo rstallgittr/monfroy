@@ -21,9 +21,6 @@ show_trivia_home_button: true
 
 
 ## Round 3
-**Instruction:**  
-Put these events in chronological order (earliest → latest).<br>
-
 <div style="display:flex; gap:16px; justify-content:center; align-items:center; margin-bottom:12px;">
   <img src="/media/trivia/260129/pokemongologo.jpg" style="width:200px; height:200px; object-fit:cover;">
   <img src="/media/trivia/260129/harambe.jpg" style="width:200px; height:200px; object-fit:cover;">

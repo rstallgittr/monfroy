@@ -15,6 +15,7 @@ This is my homepage.
 <div class="buttons">
   <a href="/inspiration" class="nav-btn">Inspiration</a>
   <a href="/trivia" class="nav-btn">Trivia</a>
+  <a href="/gallery" class="nav-btn">Gallery</a>
 </div>
 
 # Current Images Relating to Computers

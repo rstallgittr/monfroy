@@ -17,6 +17,5 @@ This is my homepage.
   <a href="/trivia" class="nav-btn">Trivia</a>
 </div>
 
-<video controls width="600">
-  <source src="media/heavy heart.mp4" type="video/mp4">
-</video>
+# Current Images Relating to Computers
+![As We May Think](/media/home/TheMemex.jpg)

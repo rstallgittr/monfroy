@@ -7,7 +7,7 @@ title: Trivia
 
 <ul>
   {% assign trivia_pages = site.pages | sort: "title" | reverse %}
-  {% for page in site.pages %}
+  {% for page in trivia_pages %}
     {% if page.url contains '/trivia/' and page.url != '/trivia/' %}
       <li><a href="{{ page.url }}">{{ page.title }}</a></li>
     {% endif %}

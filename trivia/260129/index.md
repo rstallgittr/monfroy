@@ -13,7 +13,10 @@ show_trivia_home_button: true
 
 
 ## Round 2
-![Round 2 image](/media/trivia/260122/nikes.jpg)
+<audio controls>
+  <source src="{{ '/media/trivia/260129/adeledazeem.mp3' | relative_url }}" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 
 
 

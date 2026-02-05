@@ -8,7 +8,7 @@ show_trivia_home_button: true
 
 
 ## Round 1
-![Round 1 image](/media/trivia/260205/)
+![Round 1 image](/media/trivia/260205/ballerparty.jpg)
 
 ## Round 2
 ![Round 2 image](/media/trivia/260205/)

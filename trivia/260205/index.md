@@ -19,3 +19,4 @@ show_trivia_home_button: true
 # Bonus Fun Images
 ![mountains](/media/trivia/260205/pillars.jpg)
 ![mountains](/media/trivia/260205/castle.jpg)
+![guthrie](/media/trivia/260205/guthrie.jpg)

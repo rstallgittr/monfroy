@@ -12,3 +12,6 @@ show_trivia_home_button: true
 
 ## Round 2
 ![Round 2 image](/media/trivia/260205/wilson.jpg)
+
+## Round 3
+![Round 3 image](/media/trivia/260205/nimmac.jpg)

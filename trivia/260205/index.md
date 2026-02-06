@@ -15,3 +15,6 @@ show_trivia_home_button: true
 
 ## Round 3
 ![Round 3 image](/media/trivia/260205/nimmac.jpg)
+
+# Bonus Fun Images
+![mountains](/media/trivia/260205/pillars.jpg)

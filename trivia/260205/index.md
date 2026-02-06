@@ -7,15 +7,7 @@ show_trivia_home_button: true
 # Trivia
 # Island Themed
 
-<iframe
-  width="560"
-  height="315"
-  src="[https://www.youtube.com/embed/VIDEO_ID](https://www.youtube.com/watch?app=desktop&v=wiNiWkmFcF8)"
-  title="YouTube video player"
-  frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-  allowfullscreen>
-</iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wiNiWkmFcF8?si=GoweJpGVzMrVSoNc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 ## Round 1

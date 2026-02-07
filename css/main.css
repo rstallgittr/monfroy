@@ -87,3 +87,24 @@ body {
   height: 100%;                                         /* Full height */
   border: 0;                                            /* Remove default iframe border */
 }
+
+
+/*
+    ============================
+    Responsive adjustments
+    ============================ */
+
+.img-strip {
+  display: flex;
+  gap: 12px;
+  max-width: 900px;   /* max width on desktop */
+  width: 100%;
+  margin: 0 auto;
+}
+
+.img-strip img {
+  flex: 1 1 0;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  min-width: 0;
+}

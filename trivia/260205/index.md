@@ -17,12 +17,18 @@ show_trivia_home_button: true
 </div>
 
 ## Round 2
-![Round 2 image](/media/trivia/260205/wilson.jpg)
+<div class="img-strip">
+    <img src="/media/trivia/260205/wilson.jpg" alt="Round 2 image">
+</div>
 
 ## Round 3
-![Round 3 image](/media/trivia/260205/nimmac.jpg)
+<div class="img-strip">
+    <img src="/media/trivia/260205/nimmac.jpg" alt="Round 3 image">
+</div>
 
 # Bonus Fun Images
-![mountains](/media/trivia/260205/pillars.jpg)
-![mountains](/media/trivia/260205/castle.jpg)
-![guthrie](/media/trivia/260205/guthrie.jpg)
+<div class="img-strip">
+    <img src="/media/trivia/260205/pillars.jpg" alt="pillars">
+    <img src="/media/trivia/260205/castle.jpg" alt="castle">
+    <img src="/media/trivia/260205/guthrie.jpg" alt="gutrhie">
+</div>

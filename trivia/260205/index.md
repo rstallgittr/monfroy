@@ -10,6 +10,7 @@ show_trivia_home_button: true
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wiNiWkmFcF8?si=GoweJpGVzMrVSoNc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
+<div class="img-strip">
 ## Round 1
 ![Round 1 image](/media/trivia/260205/ballerparty.jpg)
 
@@ -23,3 +24,4 @@ show_trivia_home_button: true
 ![mountains](/media/trivia/260205/pillars.jpg)
 ![mountains](/media/trivia/260205/castle.jpg)
 ![guthrie](/media/trivia/260205/guthrie.jpg)
+</div>

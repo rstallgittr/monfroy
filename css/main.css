@@ -97,9 +97,9 @@ body {
 .img-strip {
   display: flex;
   gap: 12px;
-  max-width: 900px;   /* max width on desktop */
+  max-width: 700px;   /* max width on desktop */
   width: 100%;
-  margin: 0 auto;
+  margin: 0;
 }
 
 .img-strip img {

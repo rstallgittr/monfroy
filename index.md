@@ -18,6 +18,13 @@ This is my homepage.
   <a href="/gallery" class="nav-btn">Gallery</a>
 </div>
 
+# Values
+Acting according to maximizing interests is playing a finite game, where your goal is to win, accumulate everything.
+Acting according to alignment with values is playing an infinite game, where your goal is to continue playing forever, working with those around you to keep the hackey sack in the air.
+
+# Horizontal Thinking
+Still working on this one
+
 # Current Images Relating to Computers
 ## Free Kevin
 Learning about VeilId from [the Cult of the Dead Cow](https://www.cultdeadcow.com){:target="_blank" rel="noopener noreferrer"}

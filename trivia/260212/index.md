@@ -9,7 +9,7 @@ show_trivia_home_button: true
 
 ## Round 1
 <div class="img-strip">
-    <img src="/media/trivia/260205/ballerparty.jpg" alt="Round 1 image">
+    <img src="/media/trivia/260212/darkbrandon.jpg" alt="Round 1 image">
 </div>
 
 ## Round 2

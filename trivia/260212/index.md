@@ -20,7 +20,7 @@ show_trivia_home_button: true
 
 ## Round 3
 <div class="img-strip">
-    <img src="/media/trivia/260212/prism.jpeg" alt="Round 3 image">
+    <img src="/media/trivia/260212/prism.jpg" alt="Round 3 image">
 </div>
 
 # Bonus Fun Images

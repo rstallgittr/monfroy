@@ -13,13 +13,14 @@ show_trivia_home_button: true
 </div>
 
 ## Round 2
-<div class="img-strip">
-    <img src="/media/trivia/260205/wilson.jpg" alt="Round 2 image">
-</div>
+<audio controls>
+  <source src="{{ '/media/trivia/260212/tearsinrain.mp3' | relative_url }}" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
 
 ## Round 3
 <div class="img-strip">
-    <img src="/media/trivia/260205/nimmac.jpg" alt="Round 3 image">
+    <img src="/media/trivia/260212/dullboy.jpeg" alt="Round 3 image">
 </div>
 
 # Bonus Fun Images

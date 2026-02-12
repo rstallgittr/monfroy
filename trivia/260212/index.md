@@ -9,7 +9,7 @@ show_trivia_home_button: true
 
 ## Round 1
 <div class="img-strip">
-    <img src="/media/trivia/260212/darkbrandon.jpg" alt="Round 1 image">
+    <img src="/media/trivia/260212/dullboy.jpeg" alt="Round 1 image">
 </div>
 
 ## Round 2
@@ -25,5 +25,5 @@ show_trivia_home_button: true
 
 # Bonus Fun Images
 <div class="img-strip">
-    <img src="/media/trivia/260205/pillars.jpg" alt="pillars">
+    <img src="/media/trivia/260212/darkbrandon.jpg" alt="pillars">
 </div>

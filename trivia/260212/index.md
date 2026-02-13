@@ -25,5 +25,9 @@ show_trivia_home_button: true
 
 # Bonus Fun Images
 <div class="img-strip">
-    <img src="/media/trivia/260212/darkbrandon.jpg" alt="pillars">
+    <img src="/media/trivia/260212/darkbrandon.jpg" alt="dbrandon">
+    <img src="/media/trivia/260212/ikea.jpg" alt="ikea">
+    <img src="/media/trivia/260212/electriccarnival.jpg" alt="ecarival">
+    <img src="/media/trivia/260212/biolum" alt="biolum">
+    
 </div>

@@ -28,6 +28,6 @@ show_trivia_home_button: true
     <img src="/media/trivia/260212/darkbrandon.jpg" alt="dbrandon">
     <img src="/media/trivia/260212/ikea.jpg" alt="ikea">
     <img src="/media/trivia/260212/electriccarnival.jpg" alt="ecarival">
-    <img src="/media/trivia/260212/biolum" alt="biolum">
+    <img src="/media/trivia/260212/biolum.jpg" alt="biolum">
     
 </div>

@@ -1,0 +1,140 @@
+.
+├── _config.yml
+├── _layouts
+│   └── default.html
+├── about
+│   └── contact-us.md
+├── CNAME
+├── css
+│   └── main.css
+├── fs.txt
+├── gallery
+│   └── index.md
+├── Gemfile
+├── index.md
+├── inspiration
+│   └── index.md
+├── media
+│   ├── home
+│   │   ├── heavyheart.mp4
+│   │   └── TheMemex.jpg
+│   └── trivia
+│       ├── 260108
+│       │   ├── annieoakley.jpg
+│       │   ├── davyjones.jpg
+│       │   └── morsecattle.jpg
+│       ├── 260122
+│       │   ├── nikes.jpg
+│       │   ├── penguin.mp4
+│       │   └── wimhof.jpg
+│       ├── 260129
+│       │   ├── adeledazeem.mp3
+│       │   ├── harambe.jpg
+│       │   ├── pokemongo.jpg
+│       │   ├── pokemongologo.jpg
+│       │   ├── views.jpg
+│       │   └── vine.jpg
+│       ├── 260205
+│       │   ├── ballerparty.jpg
+│       │   ├── castle.jpg
+│       │   ├── guthrie.jpg
+│       │   ├── nimmac.jpg
+│       │   ├── pillars.jpg
+│       │   └── wilson.jpg
+│       ├── 260212
+│       │   ├── biolum.jpg
+│       │   ├── darkbrandon.jpg
+│       │   ├── dullboy.jpeg
+│       │   ├── electriccarnival.jpg
+│       │   ├── ikea.jpg
+│       │   ├── prism.jpg
+│       │   └── tearsinrain.mp3
+│       ├── 260219
+│       │   ├── doobydoobydoo.jpg
+│       │   ├── jbsmoove.jpg
+│       │   ├── jparkexplorer.jpg
+│       │   ├── pinocchio.jpg
+│       │   ├── scoobydoobydoo.jpg
+│       │   ├── scrappydoo.jpg
+│       │   └── shed.jpg
+│       └── lost_ones
+│           └── thealamo.jpg
+├── monfroy-gpt.git
+│   ├── config
+│   ├── description
+│   ├── HEAD
+│   ├── hooks
+│   │   ├── applypatch-msg.sample
+│   │   ├── commit-msg.sample
+│   │   ├── fsmonitor-watchman.sample
+│   │   ├── post-update.sample
+│   │   ├── pre-applypatch.sample
+│   │   ├── pre-commit.sample
+│   │   ├── pre-merge-commit.sample
+│   │   ├── pre-push.sample
+│   │   ├── pre-rebase.sample
+│   │   ├── pre-receive.sample
+│   │   ├── prepare-commit-msg.sample
+│   │   ├── push-to-checkout.sample
+│   │   ├── sendemail-validate.sample
+│   │   └── update.sample
+│   ├── info
+│   │   └── exclude
+│   ├── objects
+│   │   ├── info
+│   │   └── pack
+│   │       ├── pack-06872f6cf79986d832ae3e068f6664a3eea41489.idx
+│   │       ├── pack-06872f6cf79986d832ae3e068f6664a3eea41489.pack
+│   │       └── pack-06872f6cf79986d832ae3e068f6664a3eea41489.rev
+│   ├── packed-refs
+│   └── refs
+│       ├── heads
+│       └── tags
+├── README.md
+└── trivia
+    ├── 260108
+    │   └── index.md
+    ├── 260122
+    │   ├── index.md
+    │   └── monfroy.git
+    │       ├── config
+    │       ├── description
+    │       ├── HEAD
+    │       ├── hooks
+    │       │   ├── applypatch-msg.sample
+    │       │   ├── commit-msg.sample
+    │       │   ├── fsmonitor-watchman.sample
+    │       │   ├── post-update.sample
+    │       │   ├── pre-applypatch.sample
+    │       │   ├── pre-commit.sample
+    │       │   ├── pre-merge-commit.sample
+    │       │   ├── pre-push.sample
+    │       │   ├── pre-rebase.sample
+    │       │   ├── pre-receive.sample
+    │       │   ├── prepare-commit-msg.sample
+    │       │   ├── push-to-checkout.sample
+    │       │   ├── sendemail-validate.sample
+    │       │   └── update.sample
+    │       ├── info
+    │       │   └── exclude
+    │       ├── objects
+    │       │   ├── info
+    │       │   └── pack
+    │       │       ├── pack-129e267d0f62f75a1b12d1cda6c015d8decf2406.idx
+    │       │       ├── pack-129e267d0f62f75a1b12d1cda6c015d8decf2406.pack
+    │       │       └── pack-129e267d0f62f75a1b12d1cda6c015d8decf2406.rev
+    │       ├── packed-refs
+    │       └── refs
+    │           ├── heads
+    │           └── tags
+    ├── 260129
+    │   └── index.md
+    ├── 260205
+    │   └── index.md
+    ├── 260212
+    │   └── index.md
+    ├── 260219
+    │   └── index.md
+    └── index.md
+
+41 directories, 97 files

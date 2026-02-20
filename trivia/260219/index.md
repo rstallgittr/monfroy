@@ -19,7 +19,9 @@ show_trivia_home_button: true
 
 ## Round 3
 <div class="img-strip">
-    <img src="/media/trivia/260212/prism.jpg" alt="Round 3 image">
+    <img src="/media/trivia/260219/scoobydoobydoo.jpg" alt="Round 3.0 image">
+    <img src="/media/trivia/260219/scrappydoo.jpg" alt="Round 3.1 image">
+    <img src="/media/trivia/260219/doobydoobydoo.jpg" alt="Round 3.2 image">
 </div>
 
 # Bonus Fun Images

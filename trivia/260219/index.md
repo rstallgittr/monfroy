@@ -27,4 +27,5 @@ show_trivia_home_button: true
 # Bonus Fun Images
 <div class="img-strip">
     <img src="/media/trivia/260219/jparkexplorer.jpg" alt="Jurrasic Explorer">
+    <img src="/media/trivia/260219/shed.jpg" alt="Fast Shed">
 </div>

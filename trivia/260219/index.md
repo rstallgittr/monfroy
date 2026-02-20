@@ -26,5 +26,5 @@ show_trivia_home_button: true
 
 # Bonus Fun Images
 <div class="img-strip">
-    <img src="/media/trivia/260212/darkbrandon.jpg" alt="dbrandon">
+    <img src="/media/trivia/260219/" alt="x">
 </div>

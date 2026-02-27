@@ -9,7 +9,7 @@ show_trivia_home_button: true
 
 ## Round 1
 <div class="img-strip">
-    <img src="/media/trivia/260226/diegs.jpg"
+    <img src="/media/trivia/260226/diegs.jpg" alt="diegs">
 </div>
 
 ## Round 2

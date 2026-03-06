@@ -17,7 +17,18 @@ show_trivia_home_button: true
     <img src="/media/trivia/260305/scream.jpg" alt="diegs">
 </div>
 
-
+## Trivia about Miles
+<div class="img-strip">
+    <img src="/media/trivia/260305/dallencoe.jpg" alt="diegs">
+</div>
+### q6
+<div class="img-strip">
+    <img src="/media/trivia/260305/hopper1.jpg" alt="diegs">
+    <img src="/media/trivia/260305/hopper2.jpg" alt="diegs">
+</div>
+<div class="img-strip">
+    <img src="/media/trivia/260305/harding.jpg" alt="diegs">
+</div>
 
 # Bonus Fun Images
 <div class="img-strip">

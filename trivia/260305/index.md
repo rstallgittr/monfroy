@@ -13,7 +13,9 @@ show_trivia_home_button: true
 </div>
 
 ## Round 2
-<iframe width="560" height="315" src="https://www.youtube.com/embed/u2SlJpK5Zm0?si=g6WP6WVs6a_XH-hk&amp;start=102" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="img-strip">
+    <img src="/media/trivia/260226/diegs.jpg" alt="diegs">
+</div>
 
 ## Round 3
 <video controls width="600">
@@ -22,5 +24,5 @@ show_trivia_home_button: true
 
 # Bonus Fun Images
 <div class="img-strip">
-    <!-- <img src="/media/trivia/260219/jparkexplorer.jpg" alt="Jurrasic Explorer">Your comment goes here -->
+    <img src="/media/trivia/260226/diegs.jpg" alt="diegs">
 </div>

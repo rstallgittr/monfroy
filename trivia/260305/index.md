@@ -29,6 +29,9 @@ show_trivia_home_button: true
 <div class="img-strip">
     <img src="/media/trivia/260305/harding.jpg" alt="diegs">
 </div>
+<div class="img-strip">
+    <img src="/media/trivia/260305/shmoke.jpg" alt="diegs">
+</div>
 
 # Bonus Fun Images
 <div class="img-strip">

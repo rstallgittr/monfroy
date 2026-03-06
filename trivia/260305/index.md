@@ -9,20 +9,17 @@ show_trivia_home_button: true
 
 ## Round 1
 <div class="img-strip">
-    <img src="/media/trivia/260226/diegs.jpg" alt="diegs">
+    <img src="/media/trivia/260305/romrem.jpg" alt="diegs">
 </div>
 
 ## Round 2
 <div class="img-strip">
-    <img src="/media/trivia/260226/diegs.jpg" alt="diegs">
+    <img src="/media/trivia/260305/scream.jpg" alt="diegs">
 </div>
 
-## Round 3
-<video controls width="600">
-  <source src="/media/trivia/260226/tvs.mp4" type="video/mp4">
-</video>
+
 
 # Bonus Fun Images
 <div class="img-strip">
-    <img src="/media/trivia/260226/diegs.jpg" alt="diegs">
+    <img src="/media/trivia/260305/Toco_Toucan_(Ramphastos_toco)_-_48153967707.jpg" alt="diegs">
 </div>

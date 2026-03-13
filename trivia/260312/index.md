@@ -18,6 +18,11 @@ show_trivia_home_button: true
     <img src="/media/trivia/260312/basalt.jpg" alt="bas">
 </div>
 
+## Round 3
+<div class="img-strip">
+    <img src="/media/trivia/260312/venn.jpg" alt="diagv">
+</div>
+
 
 # My new desktop background at work
 <div class="img-strip">

@@ -25,5 +25,5 @@ show_trivia_home_button: true
 
 # Bonus Images for this week
 <div class="img-strip">
-    <img src="/media/trivia/260319/" alt="">
+    <img src="/media/trivia/260319/mug.jpg" alt="dont look">
 </div>

@@ -25,6 +25,10 @@ show_trivia_home_button: true
 
 # Bonus Images for this week
 <div class="img-strip">
+    <img src="/media/trivia/260319/neonan1.jpg" alt="neon1">
+    <img src="/media/trivia/260319/neonan2.jpg" alt="neon2">
+</div>
+<div class="img-strip">
     <img src="/media/trivia/260319/osh-tisch.jpg" alt="fluid">
     <img src="/media/trivia/260319/mug.jpg" alt="dont look">
 </div>

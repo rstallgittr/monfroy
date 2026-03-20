@@ -1,30 +1,29 @@
 ---
 layout: default
-title: 2026.03.12
+title: 2026.03.19
 show_trivia_home_button: true
 ---
 
 # Trivia
-## Theme: Triple Trivia (Triple Trivia Triple Trivia)
+## Theme: Cleaning
 
 ## Round 1
 <div class="img-strip">
-    <img src="/media/trivia/260312/trifle.jpg" alt="trif">
+    <img src="/media/trivia/260319/" alt="">
 </div>
 
 ## Round 2
 <div class="img-strip">
-    <img src="/media/trivia/260312/secretariat.jpg" alt="secr">
-    <img src="/media/trivia/260312/basalt.jpg" alt="bas">
+    <img src="/media/trivia/260319/" alt="">
 </div>
 
 ## Round 3
 <div class="img-strip">
-    <img src="/media/trivia/260312/venn.jpg" alt="diagv">
+    <img src="/media/trivia/260319/" alt="">
 </div>
 
 
-# My new desktop background at work
+# Bonus Images for this week
 <div class="img-strip">
-    <img src="/media/trivia/260312/Toco_Toucan_(Ramphastos_toco)_-_48153967707.jpg" alt="toucan">
+    <img src="/media/trivia/260319/" alt="">
 </div>

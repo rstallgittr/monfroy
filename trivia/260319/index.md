@@ -19,11 +19,12 @@ show_trivia_home_button: true
 
 ## Round 3
 <div class="img-strip">
-    <img src="/media/trivia/260319/" alt="">
+    <img src="/media/trivia/260319/plagdoc.jpg" alt="plague doctor">
 </div>
 
 
 # Bonus Images for this week
 <div class="img-strip">
+    <img src="/media/trivia/260319/osh-tisch.jpg" alt="fluid">
     <img src="/media/trivia/260319/mug.jpg" alt="dont look">
 </div>

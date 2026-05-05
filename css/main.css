@@ -212,10 +212,45 @@ body {
   background: #005fd1;                                  /* Darker blue on hover */
 }
 
-.widget.external {
-  background: linear-gradient(135deg, #f9f6f0 0%, #fff 100%); /* Subtle gradient for external links */
-  border-color: #d4a574;                                /* Warmer border for external */
+.trivia-auto-widget {
+  min-height: 220px;
 }
+
+.trivia-auto-widget .trivia-meta {
+  margin: 0 0 1rem 0;
+  color: #005fd1;
+  font-size: 0.95rem;
+}
+
+.trivia-auto-widget .trivia-content {
+  flex-grow: 1;
+}
+
+.trivia-auto-widget .trivia-question {
+  margin: 0 0 0.75rem 0;
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #111;
+}
+
+.trivia-auto-widget .trivia-answer {
+  margin: 0 0 1rem 0;
+  color: #444;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.trivia-auto-widget .trivia-indicator {
+  margin: 0 0 1rem 0;
+  font-size: 0.85rem;
+  color: #777;
+}
+
+.trivia-auto-widget.loading .trivia-question {
+  opacity: 0.8;
+}
+
 
 .widget.external:hover {
   border-color: #0073ff;                                /* Keep blue on hover for consistency */

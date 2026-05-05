@@ -28,10 +28,15 @@ show_home_button: false
 </div>
 
 <div class="widgets-container">
-  <div class="widget">
-    <h3>Trivia</h3>
-    <p>Weekly trivia sessions exploring ideas and curiosities</p>
-    <a href="/trivia" class="widget-btn">Explore</a>
+  <div class="widget trivia-auto-widget loading" id="trivia-auto-widget" data-source="/trivia-data.json" data-delay="6000">
+    <h3>Trivia Spotlight</h3>
+    <p class="trivia-meta">Auto-scrolls through trivia questions from the data file.</p>
+    <div class="trivia-content">
+      <p class="trivia-question">Loading trivia questions…</p>
+      <p class="trivia-answer"></p>
+      <p class="trivia-indicator"></p>
+    </div>
+    <a href="/trivia" class="widget-btn">Explore Trivia</a>
   </div>
 
   <div class="widget">

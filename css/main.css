@@ -109,3 +109,128 @@ body {
   height: auto;
   flex: 0 0 auto;
 }
+
+/* ============================
+   Main Featured Widget
+   ============================ */
+.main-widget {
+  background: #fff;                                     /* White background */
+  border: 2px solid #0073ff;                            /* Bold blue border */
+  border-radius: 16px;                                  /* Larger rounded corners */
+  padding: 2.5rem;                                      /* Generous padding */
+  box-shadow: 0 4px 16px rgba(0,115,255,0.15);        /* Subtle blue-tinted shadow */
+  margin-bottom: 3rem;                                  /* Space below main widget */
+}
+
+.main-widget h2 {
+  margin-top: 0;                                        /* Remove top margin */
+  margin-bottom: 1.5rem;                                /* Space below heading */
+  color: #0073ff;                                       /* Blue color matching border */
+  font-size: 1.8rem;                                    /* Large heading */
+}
+
+.main-widget h3 {
+  margin-top: 1.5rem;                                   /* Space above subheadings */
+  margin-bottom: 0.8rem;                                /* Space below subheadings */
+  color: #111;                                          /* Dark text */
+}
+
+.main-widget h4 {
+  margin-top: 1.2rem;                                   /* Space above sub-subheadings */
+  margin-bottom: 0.6rem;                                /* Space below sub-subheadings */
+  color: #333;                                          /* Slightly lighter dark */
+}
+
+.main-widget p {
+  margin: 0.5rem 0;                                     /* Moderate spacing between paragraphs */
+  line-height: 1.6;                                     /* Improve readability */
+  color: #555;                                          /* Medium gray text */
+}
+
+.main-widget img {
+  max-width: 100%;                                      /* Responsive image */
+  height: auto;                                         /* Maintain aspect ratio */
+  margin-top: 1rem;                                     /* Space above image */
+  border-radius: 8px;                                   /* Rounded corners */
+}
+
+/* ============================
+   Widget Grid Layout
+   ============================ */
+.widgets-container {
+  display: grid;                                        /* CSS Grid for responsive layout */
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); /* Responsive columns */
+  gap: 1.5rem;                                          /* Space between widgets */
+  margin: 2rem 0;                                       /* Space above and below widget grid */
+}
+
+.widget {
+  background: #fff;                                     /* White background for widget cards */
+  border: 1px solid #e0e0e0;                            /* Subtle border */
+  border-radius: 12px;                                  /* Rounded corners */
+  padding: 1.5rem;                                      /* Internal padding */
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);             /* Soft shadow for depth */
+  transition: all 0.3s ease;                           /* Smooth transitions on hover */
+  display: flex;                                        /* Flexbox for content alignment */
+  flex-direction: column;                               /* Stack content vertically */
+}
+
+.widget:hover {
+  box-shadow: 0 8px 24px rgba(0,0,0,0.15);            /* Enhanced shadow on hover */
+  transform: translateY(-2px);                          /* Subtle lift effect */
+  border-color: #0073ff;                                /* Blue border on hover */
+}
+
+.widget h3 {
+  margin: 0 0 0.5rem 0;                                 /* Space below heading */
+  font-size: 1.3rem;                                    /* Larger heading text */
+  color: #111;                                          /* Dark text */
+}
+
+.widget p {
+  margin: 0 0 1rem 0;                                   /* Space below description */
+  font-size: 0.95rem;                                   /* Slightly smaller paragraph text */
+  color: #555;                                          /* Medium gray text */
+  flex-grow: 1;                                         /* Push button to bottom */
+}
+
+.widget-btn {
+  align-self: flex-start;                               /* Align button to left */
+  display: inline-block;                                /* Button display behavior */
+  padding: 0.6rem 1.2rem;                               /* Button padding */
+  background: #0073ff;                                  /* Primary blue background */
+  color: #fff;                                          /* White text */
+  text-decoration: none;                                /* Remove underline */
+  border-radius: 6px;                                   /* Rounded corners */
+  font-size: 0.95rem;                                   /* Button text size */
+  font-family: 'Space Grotesk', system-ui, sans-serif;  /* Match site font */
+  font-weight: 500;                                     /* Slightly bold */
+  transition: background 0.3s ease;                    /* Smooth color transition */
+}
+
+.widget-btn:hover {
+  background: #005fd1;                                  /* Darker blue on hover */
+}
+
+.widget.external {
+  background: linear-gradient(135deg, #f9f6f0 0%, #fff 100%); /* Subtle gradient for external links */
+  border-color: #d4a574;                                /* Warmer border for external */
+}
+
+.widget.external:hover {
+  border-color: #0073ff;                                /* Keep blue on hover for consistency */
+}
+
+/* ============================
+   Responsive widget adjustments
+   ============================ */
+@media (max-width: 768px) {
+  .widgets-container {
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); /* Smaller widgets on mobile */
+    gap: 1rem;                                          /* Reduced gap on mobile */
+  }
+  
+  .widget {
+    padding: 1.2rem;                                    /* Reduced padding on mobile */
+  }
+}

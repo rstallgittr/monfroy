@@ -14,6 +14,11 @@
     <link rel="stylesheet" href="{{ '/css/main.css' | relative_url }}">
   </head>
   <body>
+    <div id="clock-banner" class="clock-banner" aria-label="Current date and time">
+      <span class="clock-line" id="clock-date"></span>
+      <span class="clock-line" id="clock-time"></span>
+    </div>
+
     <nav>
       {% if page.show_home_button != false %}
         <a href="/" class="home-btn">← Back to Home</a>
@@ -28,6 +33,7 @@
     <main>
       {{ content }}
     </main>
+    <script src="/js/clock-widget.js"></script>
     <script src="/js/trivia-widget.js"></script>
   </body>
 </html>

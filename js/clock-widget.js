@@ -33,9 +33,23 @@ function initClockBanner() {
     timeLine.textContent = hours + ':' + minutes + ':' + seconds + (timezone ? timezone : '');
   }
 
+  var isCompact = false;
+
   function updateCompactState() {
-    var shouldCompact = window.scrollY > 40 || window.innerWidth < 680;
-    banner.classList.toggle('compact', shouldCompact);
+    // Hysteresis: different thresholds for entering vs exiting
+    var shouldCompact;
+    if (isCompact) {
+      // Exit compact mode only if scrolled back below 30px AND window is wide enough
+      shouldCompact = window.scrollY > 30 || window.innerWidth < 680;
+    } else {
+      // Enter compact mode if scrolled past 60px OR window is narrow
+      shouldCompact = window.scrollY > 60 || window.innerWidth < 680;
+    }
+    
+    if (shouldCompact !== isCompact) {
+      isCompact = shouldCompact;
+      banner.classList.toggle('compact', shouldCompact);
+    }
   }
 
   updateClock();

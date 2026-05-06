@@ -251,6 +251,45 @@ body {
   opacity: 0.8;
 }
 
+.trivia-controls {
+  display: flex;
+  gap: 0.75rem;
+  margin: 1rem 0;
+  justify-content: center;
+}
+
+.trivia-btn {
+  padding: 0.5rem 1rem;
+  background: #0073ff;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  font-size: 0.9rem;
+  font-family: 'Space Grotesk', system-ui, sans-serif;
+  font-weight: 500;
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.trivia-btn:hover {
+  background: #005fd1;
+}
+
+.trivia-btn:active {
+  background: #004aa3;
+  transform: scale(0.98);
+}
+
+.trivia-backward,
+.trivia-forward {
+  flex: 1;
+}
+
+.trivia-answer {
+  flex: 0 1 auto;
+  min-width: 80px;
+}
+
 
 .widget.external:hover {
   border-color: #0073ff;                                /* Keep blue on hover for consistency */

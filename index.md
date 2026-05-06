@@ -30,12 +30,19 @@ show_home_button: false
 <div class="widgets-container">
   <div class="widget trivia-auto-widget loading" id="trivia-auto-widget" data-source="/trivia-data.json" data-delay="6000">
     <h3>Trivia Spotlight</h3>
-    <p class="trivia-meta">Auto-scrolls through trivia questions from the data file.</p>
+    
     <div class="trivia-content">
       <p class="trivia-question">Loading trivia questions…</p>
       <p class="trivia-answer"></p>
       <p class="trivia-indicator"></p>
     </div>
+
+    <div class="trivia-controls">
+      <button class="trivia-btn trivia-backward" id="trivia-backward" aria-label="Previous question">← Back</button>
+      <button class="trivia-btn trivia-answer" id="trivia-answer" aria-label="Show answer">Answer</button>
+      <button class="trivia-btn trivia-forward" id="trivia-forward" aria-label="Next question">Forward →</button>
+    </div>
+    
     <a href="/trivia" class="widget-btn">Explore Trivia</a>
   </div>
 

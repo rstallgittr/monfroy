@@ -181,6 +181,18 @@ body {
   border-color: #0073ff;                                /* Blue border on hover */
 }
 
+.widget-link {
+  text-decoration: none;                                /* Remove underline from link */
+  color: inherit;                                       /* Keep text color consistent */
+  display: block;                                       /* Make the whole card clickable */
+}
+
+.widget-link:hover .widget {
+  box-shadow: 0 8px 24px rgba(0,0,0,0.15);            /* Match hover effect for card links */
+  transform: translateY(-2px);
+  border-color: #0073ff;
+}
+
 .widget h3 {
   margin: 0 0 0.5rem 0;                                 /* Space below heading */
   font-size: 1.3rem;                                    /* Larger heading text */

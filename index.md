@@ -46,6 +46,14 @@ show_home_button: false
     <a href="/trivia" class="widget-btn">Explore Trivia</a>
   </div>
 
+  <a href="/journal" class="widget-link">
+    <div class="widget">
+      <h3>Journal</h3>
+      <p>“The work of noticing is a form of care.” A short reflection on habits, observations, and the quiet texture of daily life.</p>
+      <span class="widget-btn">Read the journal</span>
+    </div>
+  </a>
+
   <div class="widget">
     <h3>Inspiration</h3>
     <p>Creative ideas and sources of inspiration</p>

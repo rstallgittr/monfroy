@@ -8,6 +8,11 @@ show_home_button: true
 
 Read my inner thoughts and insecurities I voice while at work.
 
+## Something Came up along the way
+How to keep the hunger alive always? There’s moments when you’re satiated. There’s always don’t eat. Only coffee. What does a lion do when it’s satiated? Rest. Sleep for many hours. I needed that. I’m not satiated yet. How could I be? You don’t raise another male’s offspring. How do you pass on your own genetic information? The lions have toxic masculinity.
+Automation coordinator. Once again another fake title with no concrete work today. I love those roles. I have my hands in things that I cannot comprehend. When time comes for next job, and I need to update my resume, I will have contributed to many things, and only done some of the work, but I am training my vision more than I am my ability to follow procedures and make documents. That kind of stuff is lame. Documents are temporary, vision is forever. Sharpen the vision always.
+
+
 ## Become the human of your dreams
 Tonight I have to put aside my doubt and shame and be a fun person to be around. Otherwise it’s a wasted opportunity. Yesterday I got meaningless praise, got caught out without a story, once again. So what am I doing this weekend? Surf, run, bike, drive. Let’s move through today, looking forward to tonight. Maybe even send off a note. This period of my life is temporary. I have lost my stories, and I will regain stories. It just takes time. When was I hungriest? Thirstiest? Are you experienced? Have you ever been experienced?
 Try not to get distracted. Focus on one thing: take the notes I need to. Then move to next thing. Ok I took the notes. The action items are the passivation line.

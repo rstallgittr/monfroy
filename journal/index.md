@@ -11,7 +11,7 @@ Read my inner thoughts and insecurities I voice while at work.
 ## Become the human of your dreams
 Tonight I have to put aside my doubt and shame and be a fun person to be around. Otherwise it’s a wasted opportunity. Yesterday I got meaningless praise, got caught out without a story, once again. So what am I doing this weekend? Surf, run, bike, drive. Let’s move through today, looking forward to tonight. Maybe even send off a note. This period of my life is temporary. I have lost my stories, and I will regain stories. It just takes time. When was I hungriest? Thirstiest? Are you experienced? Have you ever been experienced?
 Try not to get distracted. Focus on one thing: take the notes I need to. Then move to next thing. Ok I took the notes. The action items are the passivation line.
-Time is m greatest asset. 25k in the bank ideally. Then fuck off.
+Time is my greatest asset. 25k in the bank ideally. Then fuck off. It really is good. They will know the name of Monfroy. Nobody else got that name. What can they do? Not a thing. That’s me.
 
 ## Reminded of what it means to maximize shareholder value
 Pick a process, let it grow in scope (but not too far), and take what you’ve learned to arrive at a solution. Hammer it out. Get it done. I work in teams. I gave up on trivia. I could not give it my full effort. It was not working right. How can I work with people to create projects I want to see, or they want to see. Brandon could help me with electronics. Leak testing is huge. Paste application on the tubes. Leak testing! Found my connectors.

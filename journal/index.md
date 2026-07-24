@@ -7,11 +7,16 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## It could be there is a slight correlation
+Lions eat their food and then sleep for 36 hours to digest it. Human hunters fast for 24 hours so that they’re hunting hungry. It sharpens their senses. The real hunters were shredded. I am shredded. I am an eagle which is not bald yet. Today I am leaving after work for Bolinas to camp, surf, bike, run, and drive To keep myself experiencing, keep myself in flow, and joy and Peace. After all, I am Mon of Froy first and foremost. I am always seeking my way to Froy, The land of Peace.
+I come from Froy, but have been here on Earth many days. I almost cannot remember what Froy felt like. What I do remember is the breeze. Ranging from completely still all the way to raging, tearing out the bushes, it was always guiding. Guiding me toward contentness. Love the breeze on your face. Love the fight it provides you when it gusts. Love the baffling noises it generates when it blows. Love the absolute stillness it creates when it is off elsewhere.
+It will be a fun afternoon with Hogonas. I don’t have to do anything besides sit and ask questions, once it is my time.
 
 ## Something Came up along the way
 How to keep the hunger alive always? There’s moments when you’re satiated. There’s always don’t eat. Only coffee. What does a lion do when it’s satiated? Rest. Sleep for many hours. I needed that. I’m not satiated yet. How could I be? You don’t raise another male’s offspring. How do you pass on your own genetic information? The lions have toxic masculinity.
 Automation coordinator. Once again another fake title with no concrete work today. I love those roles. I have my hands in things that I cannot comprehend. When time comes for next job, and I need to update my resume, I will have contributed to many things, and only done some of the work, but I am training my vision more than I am my ability to follow procedures and make documents. That kind of stuff is lame. Documents are temporary, vision is forever. Sharpen the vision always.
-
+So what more should I do today which both contributes to the progress and sharpens my vision?
+The app with tracking information about each part increases vision. Is there not enough braze paste on the tubes? What sharpens my vision? Birds eye view. From High up. See the process start to finish. Or see from higher height. Walk to 190 to see the furnace. Walk to 190 to see the leak check. Destack the parts. Look at them closely.
 
 ## Become the human of your dreams
 Tonight I have to put aside my doubt and shame and be a fun person to be around. Otherwise it’s a wasted opportunity. Yesterday I got meaningless praise, got caught out without a story, once again. So what am I doing this weekend? Surf, run, bike, drive. Let’s move through today, looking forward to tonight. Maybe even send off a note. This period of my life is temporary. I have lost my stories, and I will regain stories. It just takes time. When was I hungriest? Thirstiest? Are you experienced? Have you ever been experienced?

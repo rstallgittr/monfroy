@@ -7,6 +7,15 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+
+## Digest my food for 36 hours
+I officially need a new phone. I didn’t necessarily want a new shiny phone, choosing instead to get the cheap phone, but a new phone offers some good benefits: usability, usb-c, zoom camera, faceid, (Apple Intelligence) whatever that means, TITANIUM.
+I am a nuclear reactor. My Body turns LMNTs into fuel. Are you experienced? Have you ever been experienced? Well I have. I did it this weekend. Just the beginning. Are you driving across the country? Hell YES, but slowly. I am a fairy that shows up at weddings and blesses them. I am more than that. I am the king’s wit. With stories and wisdom and arrives at precisely the correct time. I just walk like a monkey, control my center of gravity over the ground I stand on, and trust my feet. Take good care of your feet.
+On the Topic of Brazing:
+Cleanliness goes deeper than just removing oils. It is about preparing the surface not just so that it can accept braze alloy, but also so that it doesn’t corrupt the braze alloy, or another surface. Pickling Inconel may require some very intense and harmful chemicals. I’d like to avoid if possible. I will, however, try some passivation in our handy lab ultrasonic. I need to take the step, and put water in it. It needs wheels first very badly. Today if I haven’t bought wheels, I’ve failed. McMaster.
+This reminds me. Go to Home Depot for inspiration. Just browse. It is an artist date of sorts. It is an expensive way to prototype, but I need to feel things and then think on them in order to build efficiently. My main complaint about building is that I don’t know all the pieces which may be used to construct something. I am an engineer to figure that out. Previously, that held me back. The paralysis of ordering from an online catalog on company dime. Now I’ll browse, and try to make up a prototype cheaply.
+The Citrisurf may have had an effect. If there, a small one. I have 80 minutes left. Let’s make them count.
+
 ## It could be there is a slight correlation
 Lions eat their food and then sleep for 36 hours to digest it. Human hunters fast for 24 hours so that they’re hunting hungry. It sharpens their senses. The real hunters were shredded. I am shredded. I am an eagle which is not bald yet. Today I am leaving after work for Bolinas to camp, surf, bike, run, and drive To keep myself experiencing, keep myself in flow, and joy and Peace. After all, I am Mon of Froy first and foremost. I am always seeking my way to Froy, The land of Peace.
 I come from Froy, but have been here on Earth many days. I almost cannot remember what Froy felt like. What I do remember is the breeze. Ranging from completely still all the way to raging, tearing out the bushes, it was always guiding. Guiding me toward contentness. Love the breeze on your face. Love the fight it provides you when it gusts. Love the baffling noises it generates when it blows. Love the absolute stillness it creates when it is off elsewhere.

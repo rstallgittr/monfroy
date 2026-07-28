@@ -17,6 +17,7 @@ This reminds me. Go to Home Depot for inspiration. Just browse. It is an artist 
 The Citrisurf may have had an effect. If there, a small one. I have 80 minutes left. Let’s make them count.
 Did I make them count?  Questionably. I tried, then failed, then accepted putting the air hookup out of my responsibilities (to maintenance), then talked to my boss and am getting out of here. 
 Did I make progress today? Absolutely. Was it extremely tangible? No. But ideas were put down, ideas were tested. A rhythm was started, and the rest of the week is under control.
+Positive Disintegration.
 
 ## It could be there is a slight correlation
 Lions eat their food and then sleep for 36 hours to digest it. Human hunters fast for 24 hours so that they’re hunting hungry. It sharpens their senses. The real hunters were shredded. I am shredded. I am an eagle which is not bald yet. Today I am leaving after work for Bolinas to camp, surf, bike, run, and drive To keep myself experiencing, keep myself in flow, and joy and Peace. After all, I am Mon of Froy first and foremost. I am always seeking my way to Froy, The land of Peace.

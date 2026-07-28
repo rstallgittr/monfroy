@@ -7,6 +7,9 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+# Move like a jellyfish, hear your heartbeat
+I traveled through an imaginary tunnel, which would have been terrifying had it been real. The climbing down and wiggling up was real, however. I need to go to the anechoic chamber at Sac State. It would enrich my experience as a human. I need to hear my heart beat, my veins pulse, my bones creak, the sounds of concentration. The Sounds of life. 
+Why? Today is the last day I’ll ever be able to control my body only to this level. Every day going forward for the rest of my life, I will only increase in my ability to control my own body. Control your body, and thus, control your mind. Endurance practice. Nothing to console you, nothing to distract you from the rhythm of your own body. I walked along a tightrope and found my balance in a small part. Every time I am on a journey I will find a place to test my balance, and every time I test my balance, I gain a deeper understanding of my body and my Self. Find your Self always. It is the way the person you naturally are interacts with the world, and doing so in the truest and most focused way. For example, Today I need to move my body and hear the rhythm before I can do anything else. It feels great to write though. Get it out and down. Luck and willingness. Growth always. Life before death, Strength before weakness, Journey before destination. 
 
 ## Digest my food for 36 hours
 I officially need a new phone. I didn’t necessarily want a new shiny phone, choosing instead to get the cheap phone, but a new phone offers some good benefits: usability, usb-c, zoom camera, faceid, (Apple Intelligence) whatever that means, TITANIUM.

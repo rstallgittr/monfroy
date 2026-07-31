@@ -7,6 +7,15 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## How many trainwrecks do we Have to See?
+You win it’s your fault. Got bagels. I this morning dreamt in breadboard. More like I imagined how to use them. Yet another day where I must be myself as the only true objective, and where doing work for others/ a common cause, is secondary. That’s not to say deprioritized, but let’s not forget what I’m working for. I’m working for my ultimate self, building the stone pillar which will support generations and generations. I find zen in the quiet, find stimulation in the clothes on my back and every small nibble in between. Walking is the most peaceful time of the day. 
+The edge of hesitation. What’s important to you is not important to me.
+Leak Detection is mine. I’ve been struggling with design, and it was not needed yet. The day when it’s needed properly is nigh. I will make sure we get an efficient, single-part system that makes leak detecting as simple as open the clamshell, place the part, close the clamshell (and latch) and hit go, and the rest of the stuff is done.
+The other stuff I want to do today: put the wheels on the ultrasonic, clean the remaining un-pasted plates, check on Zack Bonder, paste some more tubes (and dry them, and maybe some other things. 
+That other things includes getting a traveler for the vacuum fire of the tubes.
+I’m a hard man to find. I like it that way. I am in demand because people know what I stand for.
+Let’s review what I did today, and what needs to get done tomorrow. The plates have been cleaned. The area just needs to be reset (blower off, water flow off). I’ve checked out the Zack bonder, and saw that the load path is less of an issue because there is an array of rams. I did not paste any more tubes, or put the wheels on the ultrasonic because things got in the way. The production meeting is now a regular part of my schedule, so that we may work closer with production to implement good practices, and transfer Bloom to high volume. My job title is Material and Process Engineer. All of my duties fall under that realm. This includes defining and improving processes, considering material challenges, evaluating failed processes for Root Cause Corrective Actions, coordinating processes as they scale, building systems to make process repeatable, and overall being the guru of all things Materials and Process. Including cleaning, leak checking, paste application. I am that. Fuck yeah I am. I walk around with authority and self-assured peace that people are unable to understand. That gives me enormous power for leadership.
+
 ## Warning of the Chinese Guns
 Integrating into another’s life. We’re far from that. It is a mistake I’ve made commonly, is thinking the integration period is faster than it really is. It is meant to be a slow process. Over the course of months, not weeks, years not days.
 Had a magical dream where I was nervous about an imminent dance performance, where I knew none of the choreography. SNOOZE. The performance is happening. SNOOZE. The performance happened. Turns out not as stressful as you’d think.

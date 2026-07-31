@@ -7,6 +7,12 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## I walked in late Today
+I totally could’ve been on time today. I was home at a reasonable hour, and I was up at a reasonable hour. I then let it go this morning. Good for me. Sorry Eric LOL. Last night was practice. Practice being doing the thing you want to do every day of your life. Feel the connection. Mind and body totally engrossed in a person. Makes you feel really alive. Tingly. Then walk, and find myself in a large mirror. I think that the Universe has directed me to here. I dreamt in angry birds, unfortunately. It’s ok. That was not as bad as the safari youtube rust. The music being played through the phone speakers is too good, and too close to the screen. It’s never too late to start practicing something. For the rest of my life I will practice that which is living true. Love, zen, and music. Leadership. Imperturbability. Stone pillarhood. Starts with sitting, standing straight. Not in a forced way, but a natural elongating of the spine.
+Tatami mats, furnace operators, Rates of Rise.
+Production Meeting. Hysteresis. 2000 parts per day. Infinite money makes everything work. We added more paste. 450 mg. leak checking. Tube paste application. Corrective actions. Management. Skills, talents.
+TPA3116D2 amplifier chip. Built with a specific purpose. I am maddened by the fact that I spent time not really cool. No, I am on a journey. It’s ok. I don’t have to be Tom Sachs. Continue to push myself, though. All the time.
+
 ## How many trainwrecks do we Have to See?
 You win it’s your fault. Got bagels. I this morning dreamt in breadboard. More like I imagined how to use them. Yet another day where I must be myself as the only true objective, and where doing work for others/ a common cause, is secondary. That’s not to say deprioritized, but let’s not forget what I’m working for. I’m working for my ultimate self, building the stone pillar which will support generations and generations. I find zen in the quiet, find stimulation in the clothes on my back and every small nibble in between. Walking is the most peaceful time of the day. 
 The edge of hesitation. What’s important to you is not important to me.

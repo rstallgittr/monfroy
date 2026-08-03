@@ -7,6 +7,13 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## Hey remember that time
+When I would only read.. Shakes-peare. Hey remember that time when bat ride was epic, and I left spaced way out and not fully gaining new understanding, just rerunning things in my head. Melancholy Elephants. Unk. Horny Jekyll and Hyde. Distractions from Work. Futures, fake trading websites, PLC. Automation direct is the future. I have it for when I need it. Maybe for leak testing. Prototype that. Paste the tubes after tack welding. 
+What one process can we do to the plates or tubes to make the assembly 10x easier? Would chamfering the hole work? Would Swaging the tubes work? Would reaming the hole work? I think the hole just needs to be the correct size. Dave is right. But yes the spring pins should work good. Just a tool that installs both of them at once and a fixture that allows easy stacking. The pin adding can totally be done by an automatic machine. Much more easily than a tack weld procedure can be done. Then there’s the thing of light compression by use of a CTE fixture. 
+Those graphites need to be stop-offed at the holes to make sure the graphite problem is no longer. The re-pasted assemblies for rebraze only have another 150mg on them. But we should add more to make sure they braze with no leaks. Same with the tubes. Make sure they have too much paste. Then, Vish’s wisdom says once the paste amount is dialed, we mess with the brazing profile to make the braze perfect.
+The braze will be good, the assembly process will be easy, the volume will be high.
+Silver Apples, Simeon.
+
 ## I walked in late Today
 I totally could’ve been on time today. I was home at a reasonable hour, and I was up at a reasonable hour. I then let it go this morning. Good for me. Sorry Eric LOL. Last night was practice. Practice being doing the thing you want to do every day of your life. Feel the connection. Mind and body totally engrossed in a person. Makes you feel really alive. Tingly. Then walk, and find myself in a large mirror. I think that the Universe has directed me to here. I dreamt in angry birds, unfortunately. It’s ok. That was not as bad as the safari youtube rust. The music being played through the phone speakers is too good, and too close to the screen. It’s never too late to start practicing something. For the rest of my life I will practice that which is living true. Love, zen, and music. Leadership. Imperturbability. Stone pillarhood. Starts with sitting, standing straight. Not in a forced way, but a natural elongating of the spine.
 Tatami mats, furnace operators, Rates of Rise.

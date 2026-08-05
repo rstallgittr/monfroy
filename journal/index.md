@@ -7,6 +7,18 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## Mock ups and Lay outs
+These passages have the most dense, cryptic wisdom when I am giving myself a pep talk. Reminding myself of something I must be, and how to live and work and love.
+Love and work and live.
+At home, progress was made, no matter how small. I ran the simplest SPICE simulation of an oscillator, and composed a few more half-beats, and I’m doing good at texting and calling my friends. I’m hanging out with them and making good memories, spending my remaining weeks in search of depth of existence: Friends, lovers, and passions. Because this entry is so dense, it must be that I’m losing my grip on the life. 
+Daisy at SBK claims to have been born again with all the knowledge of how to play the game. I think I should reach out to her and find out what she means. She does look at me with an intense look.
+What am I kidding. I have many things to do to turn this place world class. Step by step, we will do it all, Cleanly, efficiently, professionally. We will learn from the best and become the best. To be the best you gotta beat the best.
+Data collection done for this morning. Onto process development. I need to get separator sheets, a traveler, bloom plates, and a bonding furnace to test it all in. Even brittle materials can be very strong.
+CuPlat, braze blip. Diffusion bonding, 1 page report. Leak Check Face Seal. Titan. 5000 parts. VIP 2, 750T, Many many parts. Start with separator sheets traveler, thermal profile, talk to Bill’s team about bonder operation.
+SpaceX is cleaned elsewhere, and stacked and welded in 150, then transported as a stack. It is cleaned and has a 7-day clean life before it is recleaned. Their main problem, though, is lack of plates. Out of our control. However, its cleaning process (Citrisurf?) is something which may be folded into our standard operation procedures. The separator sheets.
+Renewed Objective: Dean E-beam sputter Alumina on Moly, titanium.
+Plan of what we want Amada Weld Tech to demonstrate for us, and then I can get the NDA signed. We will not buy from them.
+
 ## Fire,
 Sheesh, no time yet to do any writing. Last night I was thinking… and. They literally gave me a seat at the table yesterday. Meetings are bad, but this is more a powwow to let me know what is happening around me. It makes me a better informed leader. Not a meeting about a particular topic, but a tagup to make sure things are in fact getting done.
 Diffusion bond the plates, and induction braze the tubes. Put 8 in the furnace without tubes. Paint the graphite with stopoff. Take lunch early. Only go  for a few minutes

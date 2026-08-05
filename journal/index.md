@@ -7,6 +7,17 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## Fire,
+Sheesh, no time yet to do any writing. Last night I was thinking… and. They literally gave me a seat at the table yesterday. Meetings are bad, but this is more a powwow to let me know what is happening around me. It makes me a better informed leader. Not a meeting about a particular topic, but a tagup to make sure things are in fact getting done.
+Diffusion bond the plates, and induction braze the tubes. Put 8 in the furnace without tubes. Paint the graphite with stopoff. Take lunch early. Only go  for a few minutes
+pFMEA.
+So much happened and so little to do. I am back to no project. Bloom is on STOP WORK. TH
+Fuck that line. Why was it so tabbed. We are letting the creativity flow through us. I think I will continue on the same path. I shall brainstorm bloom, collect data on the RCCA, I will investigate these other processes which we’ll need: Induction Brazing and Laser Welding. These will improve our capabilities in the long run. I shall act as if the Bloom is not STOP WORK. It is for my own sake. Don’t spend money, but do make improvements, and go to Production Meetings, and present new offerings. And Develop the cleaning SOPs and congregate(?) not the right word. Concentrate(?) also notright the cleaning into 150, and make VPE great. We will be able to spool up a new process quickly and efficiently.
+The Ford Motor Company would be lucky to have us do their work. Cretivity flows through me. I figured out the hanging indent. Now I have this bunk line underneath this paragraph. Listless? NO! Progress? YES. We will win big projects and produce good parts and lead the way of the world in Diffusion Bonding and Heat Exchangers.
+Salvation never comes externally as it seems it will. It always comes from within. When the outside is not solivng your problems, look within. Always. This is age old advice. Look Within VPE.
+I need to respond to Carl, and work on the cleaning system we’ll use in the 150 cleaning cell.
+Let’s just call it a day and start fresh tomorrow. This is a small hit to my PURPOSE. It needs to be made stronger because of this. What am I doing here that is irregardless of program and cannot be denied? Focus on that in the meantime.
+
 ## Hey remember that time
 When I would only read.. Shakes-peare. Hey remember that time when bat ride was epic, and I left spaced way out and not fully gaining new understanding, just rerunning things in my head. Melancholy Elephants. Unk. Horny Jekyll and Hyde. Distractions from Work. Futures, fake trading websites, PLC. Automation direct is the future. I have it for when I need it. Maybe for leak testing. Prototype that. Paste the tubes after tack welding. 
 What one process can we do to the plates or tubes to make the assembly 10x easier? Would chamfering the hole work? Would Swaging the tubes work? Would reaming the hole work? I think the hole just needs to be the correct size. Dave is right. But yes the spring pins should work good. Just a tool that installs both of them at once and a fixture that allows easy stacking. The pin adding can totally be done by an automatic machine. Much more easily than a tack weld procedure can be done. Then there’s the thing of light compression by use of a CTE fixture. 

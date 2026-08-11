@@ -7,6 +7,15 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## Output before Input
+What have I been caught out doing? Reading bullshit spam emails and reading into them, before I’ve had the chance to put in my pool. Youtube university is the bane of my existence. Get that shit out of here. It scares me. I like to this I was addicted to it before it was raped. And tthen there was a transition period as it was being raped, and then I was dragged back in, but now I see what it is, and I see how living is so separate from youtube, and how living is so separate from Instagram, and how in an ideal world for me, the internet is about sharing music and art, and books, and that’s it. Did you hear they’re scalping old books, shredding the spines, and quick scanning every page just to fuel the AI fire? Because the AI is so garbage and also so ubiquitous that the internet is on the second wave of AI slop everywhere, which is reacting to the AI slop of the first wave, and there cannot be very many more waves before all is lost.
+I am who I am, I am my habits, and my habits include getting stoned before bed and becoming a rock on my couch (rocks have thoughts). 
+Got caught input before output again. Music is number 1 focus. Connection, practice, zen.
+I wish I wasn’t here right now. Reflect on the weekend. Navigation, surf&turf&bacon, youtube university, positive mushrooms, camping, peace, darkness, wild, rope swing.
+What I did today involved writing my constant thoughts, moving to a new location, settling down, writing my thoughts, then moving and repeating those. I did it at the boneyard, then 110 conference room, then the lab at a new table.
+Production meeting. The new guy doesn’t make waves (Eric about Karen’s suggestions for Process Spec Safety Notes). Though, she has worked at many places, especially in the past 5 years, and so knows both what is done, and what happens when you start a new job and try to introduce your ideas.
+Sycophants, Cybernetics, feedback
+
 ## 1 year goal, Turmoil 1 more year
 Go thank Jim and hand off the traveler to the correct production member, then prepare the pins (10x cut to length). Good day today. I leave after work I have to pack still. There were ways I could’ve used my late night time a bit better last night. But also give myself a break. Exhausting day.
 ASML needs us to give them spindle time. Bloom shall not know how we make their plates. Bloom production is nil, but the laser is coming anyway. We’re gonna mess around with laser texturing for braze applications when it comes in.

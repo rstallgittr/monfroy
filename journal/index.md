@@ -7,6 +7,17 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## Shot in the dark, Nope, Find the answer first.
+Last night was a magical night. Everything: dance clicked, I recorded a shitty demo and sent it and feel good about it, a fucking cat just walked into my apartment, no bell. I loved it. I read Miranda’s eros book. Everything was perfect. It was the embodiment of opening myself up to greater creativity, and I was rewarded. Rewarded not the right word; really I was just open to the flow of life, and the flow of life thus carried me a little ways down the stream, such that I can see more now. It has a way of bringing things in front of you. Like the cat, for example. My entire apartment, and block, and city, and state and country and world moved through space and time last night, such that it crossed paths with that lovely, silent cat. Just like the meteor dust cloud that we are passing through, which I shall see tomorrow night. We are just passing through it’s zone. Creativity keeps you in motion, so that I may cross paths with more and more things. I interact with more, contribute to more, love more, Love Life. Let me read my bible real quick.
+The things I need to do remaining today: (1) Brainstorm a plan and put a date and time on cutting open the vac interrupter.  (2) Pinpoint the laser weld locations for trial, and send to Eric so that I may get NDA signed.
+I should eat lunch right now. I’m hungry. Later I have to do things and get ready to bootleg up to Ice house for the night. Think about food and prepare clothes and such. Pack light.
+The other things: (3) paint the remaining graphite fixtures/assist in getting the furnace run going, and (4) plan with Karen a time to work on the DoE matrix.
+1 done, 3 to go. Let production know that we’re going to be rebrazing bloom parts.
+SpaceX flushing
+Send it to Umberto to make sure he understands. There was no leak in the bellows, which makes understanding the bad behavior of the Vacuum interrupter harder. Talked to Karen obviously, and we are a good team to institute professional changes to VPE.
+I am always working for myself. Exclusively for myself. I am learning about people, and organizations, and technology, materials joining, materials, posture, zen, Quality, music.
+I still have to do the laser weld location map. Let me do that real quick.
+
 ## Output before Input
 What have I been caught out doing? Reading bullshit spam emails and reading into them, before I’ve had the chance to put in my pool. Youtube university is the bane of my existence. Get that shit out of here. It scares me. I like to this I was addicted to it before it was raped. And tthen there was a transition period as it was being raped, and then I was dragged back in, but now I see what it is, and I see how living is so separate from youtube, and how living is so separate from Instagram, and how in an ideal world for me, the internet is about sharing music and art, and books, and that’s it. Did you hear they’re scalping old books, shredding the spines, and quick scanning every page just to fuel the AI fire? Because the AI is so garbage and also so ubiquitous that the internet is on the second wave of AI slop everywhere, which is reacting to the AI slop of the first wave, and there cannot be very many more waves before all is lost.
 I am who I am, I am my habits, and my habits include getting stoned before bed and becoming a rock on my couch (rocks have thoughts). 

@@ -7,6 +7,16 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## Ice House Porcupine
+Wow I made it, no sleep and huge bags under my eyes, wet hair, feeling pretty good. The magical mystery ride continues for another few days. No stopping on that.
+Anton Barbeau. Morgenmusik. Take in so much, and then out of the pile of everything, pull an idea, then gently keep pulling, and then you have a daisy chain. No, that’s not exactly what I mean. Be a Magpie.
+Clean fire procedure.
+Furnace qual every 3 months (>1093C), or every 6 months (<1093C). BPS vs TPS. 
+Work feverishly for myself, starting Monday. I know I go through this cycle every few weeks. I do. That’s because each time my vision becomes more clear. Each time I learn more and more about what I am. I am not organizational. I am technical. I am a voice of reason. I develop process. I am a process engineer… for now. I develop process for cleaning, leak detecting, diffusion bonding, brazing, thin film coating. What does this mean for me today, and immediately?
+Work feverishly for myself. Diffusion bond everything I can get my hands on. Don’t be Ryan. Be a machine which churns out materials engineering. Because right now I’m hardly a materials engineer. I am a stone in the polluted swamp water downstream from a sewer plant, being strong against the waves of shit flowing constantly. Put my best foot forward and walk up out of this wave, find cleaner water, where a bridge may be built atop me. I have to get to the damn end of today. Let’s do it. Lay up the diffusion bonding trial, as best I can, so that next week, I go.
+You shan’t live imagining the day when everything falls apart. Prepare instead to be ready to take the wild opportunity which is just on the other side of the river. If you prepare to do anything, you prepare to do everything, you prepare for the future in any form, put together or fragmented. Don’t wish for a fragmented future, see a strong future as it is built up from the foundation. See it and it will find you.
+Consider different fading systems. VPE is a fading system. Employees are fading in and out of existence. Big customers are fading out of existence.
+
 ## Return of the Ring(tone)
 What do you mean, phone? The universe was trying to teach me a lesson about the impermanence of all things. Trying then to recover the phone is to fight against it. When I was home, I was trying to accept this, and I was tired and annoyed and almost resigned. I had a parking ticket in my pocket. What would Tom Sachs do? What would a Stone Pillar do? Tom Sachs would journey to find it, and experience creativity along the way. A Stone Pillar would… walk to and stand in front of the people in the known area, enticing them with the weight of eternity, to assist the searching individual find his phone. I did both, in my own interpretation of things. Looking up to Tom Sachs. I need not envy another man or keep him atop a pedestal, for I am the pillar which is called a pedestal when something not natural to eternity is placed atop.
 So anyway, I found my phone, and will contest the parking ticket, and what do I do today? Start by walking and getting the lay of the land, then turn focus to preparing the brazing run. But First make sure the cryo is being regened.

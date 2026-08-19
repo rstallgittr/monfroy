@@ -7,6 +7,14 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## Creativity vs Refusal, just like a Dog
+Fort Hunter Leggitt. Santa Cruz, Lake Havasu City, Crescent City, Portland. These all places on map. I was in a place on a map. And here we are, back at a place on somebody’s map. Thumbs out of asses. Life is too damn short. Go on dates. Tell people they look beautiful. Get excited and emotional. Live in the moment. Appreciate life so much. Open yourself to your creativity fully. Let it flow through you. Encourage others to do the same. Share that openness and love and creativity with others. Train dogs with love, not anger. Chase good things: things that make you feel alive. Like wipeouts, and music, and dancing embarrassingly, and touching.
+Work is good. Not because it is the most high tech garbage, but because it, like all things, is an opportunity to practice living right. Do good things for the sake of the rightness, and joy.
+So here at work today all I have to do is get my bonding trial in the oven, and make progress on the data for Meggitt. Let’s spend 10 minutes now before lunch doing data with Claude. I shall get some water, pee, and then describe what I want, picking up where I left off.
+Break down the silos? Focus not on destruction. What do you mean by progress? Let my agent try to make my data science easy. I’m probably asking too much.
+Tube to plate? Where was your braze alloy? Geometry? We can totally induction braze, from the inside maybe.
+Life is not suffering. Life is pure creative energy… if you want it to be.
+
 ## Ice House Porcupine
 Wow I made it, no sleep and huge bags under my eyes, wet hair, feeling pretty good. The magical mystery ride continues for another few days. No stopping on that.
 Anton Barbeau. Morgenmusik. Take in so much, and then out of the pile of everything, pull an idea, then gently keep pulling, and then you have a daisy chain. No, that’s not exactly what I mean. Be a Magpie.

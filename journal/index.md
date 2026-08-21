@@ -7,6 +7,14 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## Straight Campari, Homie
+Start the day with furnace and moly and scales and All the World’s a stage. Everyone is performing for the great eye in the sky. The meaning of it all is to love and be loved. Simple things.
+Diffusion bonding resulted in mega squish, Tomo Fujita Guitar Wisdom, the 10 commandments are not natural. Laying the groundwork for a future of high technology. Preparing for the next generation of cold plate requirements.
+Find the price of little metallized ceramic. What happened today? I am here to learn, all contributions are secondary to learning for my own sake, and loving life more.
+Wow, I came to the end of the day and have nothing written. I’m going to I stopped to look up the snares tour. I don’t know what I was I’m going to dinner with Ray, no dates this time. That will change next time. I can’t believe I lost focus. I’ll not do that again! There’s so much love to be had.
+I am learning all the time so that I may love life more. Tomo Fujita is what the fuck I need right now to get me back on track of practicing music so that next time I’m in the place, I’ll be more ready. I can be ready to jam, and get in the groove with people, but if I’m locked to my one style of blues, and if my playing is rigid, I’m being closed off. I practice so that I may have greater control over myself and my environment. I am able to morph the sound across time like techno and ambient do. That is my special interest. I can do it, but I need to practice.
+World class quality. Love life. Love learning, love and be loved. Greetings. Life is short. Be happy. Be ready for when life becomes more painful. At that moment, be happy, love life. At that moment I will know how to truly love life. At that moment I will blossom yet again. I have been blossoming recently. Take in the moment. 
+
 ## Disposable Sheet Metal Retort?
 AMAT has determined that VPE does have the capability to perform controlled oxidation of Inconel 3d additively manufactured and machined parts. We don’t have a large retort, unless we do in 190.
 Halley’s comet isn’t coming until 2061. I’ll be around. The world will look very different, and yet, probably very similar. Barring some great change in how we build, I presume our world will look the same, with some new fads, and my generation will be reaching retirement age. Science, and thus society, progresses one funeral at a time. That is a strange thing to come to grips with, but it shows that time is on my side. Just as it always is. Work may be different, it may not be. Imagining it takes 5 years to rebuild a long stretch of road, we shall have good roads and modern infrastructure in 2061. We lag behind the rest of the world, because we have nothing to prove to the rest of them about standard of living. We invented the world in which we live today. All the garbage and all the magical things.

@@ -7,6 +7,16 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## The Little Prince
+The little prince arrived on an asteroid, unaware of the peculiarities in ritual found among the human people. You may not pour tea for yourself. He liked that one. Cursing people far away for things done in the past. He did not like that one. Comparing the act of eating with men vs eating with women. He did not understand why it might be different.
+Me at trivia was expounding a recondite matter to the crowd. All the time, something that I was not able to expound hard enough to get people to really think deeply about a subject. Was a forcing it? Of course I was. Was it important to me? Of course it was. A recondite matter. Story of my life. Expounding. For your edification, building up a person’s mind or soul. Enrich your mind through learning, enrich your soul through doing. Someone who has been present in moments may have soul.
+The sensation of free-flowing, unburdened thought that comes after a meal with people.
+Soul is connected to nature. Out activity, night sky, with the nature. Hiking. Outdoors, away from technology. Away from Big pharma. No medicine. If your arm is hurting, ok. Natural. No gasoline, No car. No cooking. Maybe gardening with basic hand tools. No cell phone. No social media. Drink room temperature water. NO ICE. ICE COMES FROM TECHNOLOGY. Definitely no soda; causes cancer.
+When someone talking about new medication. Ask, what company makes that medication? …Uhh, not sure, why? I will buy their stock.
+Notice the seasons pass by growing crops. Citrus several years.
+Things I learned about diffusion bonding today. Crush happens where grain growth happens. You only apply full load in the regime where you want crush to happen. This means don’t apply full load until you are at the temperature you want. The pressure range is in the hundreds of psi. At thermal, they were using 950 psi. We’ve been using 450 ish. 
+The mind is enriched by learning. The soul is enriched by doing.
+
 ## Straight Campari, Homie
 Start the day with furnace and moly and scales and All the World’s a stage. Everyone is performing for the great eye in the sky. The meaning of it all is to love and be loved. Simple things.
 Diffusion bonding resulted in mega squish, Tomo Fujita Guitar Wisdom, the 10 commandments are not natural. Laying the groundwork for a future of high technology. Preparing for the next generation of cold plate requirements.

@@ -7,6 +7,15 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## Paired Comparisons
+Pair me with my hair and I’m less than just me. Leave my hair behind and I am the spine I am supported by. I am the skull which contains my brain. I am the droplets of water misted off when I rub against the grain.
+Paired comparison here at work. Bloom is back. What does that mean. The Same exact stuff we were doing before? I presume. This time it has to be done better, cleaner.
+$500k NRE budget. I have to fight for that. I need paste dispenser robot, I need leak detection automatic seals, and almost certainly some other stuff. Let’s not forget the laser welding trial.
+Adam wants to DBBE, Carl wants to DBBE, I want to DBBE. Eric is not convinced of DBBE. We’ll get there. Frickin TITAN man. It could DBBE so much. I’m now behind on RCCA for CIA. I like the number of acronyms I’m using in this paragraph. DOE. Paired Comparisons.
+I will be here tomorrow at 6am to observe and ask questions. I will be able to have a long afternoon because of early work! I’ll take the photo I need to send to Carl. I’ll practice some zen Buddhism. I think I’ll do that by just sitting, and imagine the oneness out of which we are all created. I can’t wait for that. First take the photo, and send the email. The zen will be found in front of the VR-6000.
+I’m not sure that zen was found at the VR, although peace was. Deming is the best for Philosophy of Quality, which is my favorite aspect of this whole world. Quality is what the world is.
+I tried the magnet on my sliding door. No dice. My creativity bible is really on its last legs. Time to start constructing a new one. I know that it includes the Tom Sachs one about seeing: “To see is to forget the name of the thing one sees”
+
 ## The Little Prince
 The little prince arrived on an asteroid, unaware of the peculiarities in ritual found among the human people. You may not pour tea for yourself. He liked that one. Cursing people far away for things done in the past. He did not like that one. Comparing the act of eating with men vs eating with women. He did not understand why it might be different.
 Me at trivia was expounding a recondite matter to the crowd. All the time, something that I was not able to expound hard enough to get people to really think deeply about a subject. Was a forcing it? Of course I was. Was it important to me? Of course it was. A recondite matter. Story of my life. Expounding. For your edification, building up a person’s mind or soul. Enrich your mind through learning, enrich your soul through doing. Someone who has been present in moments may have soul.

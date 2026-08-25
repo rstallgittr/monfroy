@@ -7,6 +7,18 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+# 10 Commandments, Written 08.25.2026
+1.	Seeing is to forget the name of thing one sees.
+2.	An idea is a seed. Nurture it with playfulness and watch it grow into a piece of art.
+3.	You are pulled gently toward the sky by the crown of your head.
+4.	There may be a very delicious fruit. There may not be a very delicious fruit.
+5.	Have the most fun.
+6.	The mind is enriched by learning. The soul is enriched by doing.
+7.	10 minute live ambient electronic music set by 09/06/26.
+8.	You never know who’s on the other end of the phone line. Sell yourself well.
+9.	The cost to replace a defective item on the production line is fairly easy to estimate, but the cost of a defective item that does out to the customer defies measure.
+10.	Crush 2%, remove load and soak.
+
 ## Paired Comparisons
 Pair me with my hair and I’m less than just me. Leave my hair behind and I am the spine I am supported by. I am the skull which contains my brain. I am the droplets of water misted off when I rub against the grain.
 Paired comparison here at work. Bloom is back. What does that mean. The Same exact stuff we were doing before? I presume. This time it has to be done better, cleaner.

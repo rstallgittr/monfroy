@@ -7,6 +7,18 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## A New 10 Commandments
+The paper is dying. College counselors need only to recite number 10 to their students. When you have a whole and meaningful dream, follow it persistently. It is your divinity.
+I wrote 10 commandments. I don’t love them. The first 3 are distilled wisdom. 4 is obscure from discussion. 5 is my strength. 6 is speculation. 7 is a reminder. 8 is something to grapple with, against my judgement. 9 is a capitalist view of things. 10 is trade secret.
+I need to order FasTest, I need to prepare DBBE, I need to storybook. That’s really it.
+I was at Costco getting my hot dogs before taking a nap. I cut a man in line. He clears his voice. Apparently I cut him. There was a gap in the line. I go to the back. I think about my new 10 commandments. I don’t know how to feel about them. I scroll Instagram. I don’t like that. I get my hotdogs, eat at the food court: deli mustard and relish on one, ketchup, mustard and relish on the other. I nap in my car, dreaming about girls and dancing and I don’t know if I even fall asleep in that 15 minutes. Lunch break ends up being 50 minutes, even with no trip to the dance studio. Oh well.
+Production meeting: I need separator sheets; go through Teresa to Chris, I want to have 2 furnaces modified to dramatically increase capability and control; talk to Aaron about that, not my domain. LOL
+Back to the 10 commandments. I wrote some of them. Some of them are half-assed attempts at translating real philosophy, badly transcribed from conversations with Vish about the nature of Zen Buddhism. I forget the most important one: Love Life. It’s the unwritten rule. I like having one of those. I can’t remember the unwritten rule from my first set of commandments. I need to get the broken #2 from Vish. I must save it.
+What is the story of 5 monkeys?
+It is the story of superstition. Following tradition without questioning. What are my 5 monkeys?
+Ok, I’ve sufficiently worked on storybook for today. I’d just like to put together a rec for the FasTest bits. Now I’ve emailed Rob Gentil from their sales rep. Now we wait and try to put in a rec tomorrow.
+Prepare DBBE. I need thick separator sheets for contacting the graphite, and thin for 
+
 # 10 Commandments, Written 08.25.2026
 1.	Seeing is to forget the name of thing one sees.
 2.	An idea is a seed. Nurture it with playfulness and watch it grow into a piece of art.

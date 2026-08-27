@@ -7,6 +7,17 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## I left a love letter to a green prius
+I hope they received it with a smile on their face. I’m not sure who it is. It seemed female. Then got donuts. New Rick and Morty is mid. It’s gone woke. Best not to be a consumer. You are pulled gently to the sky by the crown of your head. I need to get separator sheets made, and today figure out the tack welding, and put in a rec for the FasTests, and continue refinining my storybook. I think print it out and annotate with pen. That is an effective way to visualize it, and make obvious improvements.
+ChrisH liked my 10 commandments. I like them. He called me music man, with a hint of jealousy.
+1 hour 5s done! The lab looks better and more junk has been floated to the surface. No time to stop.
+The universe is very fascinating. We’ll never understand it. It’s a humbling experience how tiny we are. Not just we we, not just our home, Earth is a grain of sand on the scale of the universe, or less, just an atom.
+Let the dead bury the dead.
+I’ve printed the Senior logbook. Now just to locate all the runs and what it was, I’ll put it in the Staining status excel. I need to get a traveler for more separator sheets and I need to put in a PR for the Sealing Tools. I put in the PR, now to ask for a traveler. Then Take lunch then focus on data collection and head down work. Make the tack welder work.
+Screw the Tack welder. TIG it. I’ve asked for separator sheet. I’ve updated the drawing for sending for TaC quote. I need to follow up with Teresa in person to make sure I get that traveler and the sheets by Friday. I need to bond over the weekend, with the same program, but increased crush for the additional 2 assemblies. 
+The key to brazing the Bloom parts is good furnace tooling, which eases the problem of assembly, and makes it obvious when it’s not loaded correctly, and no additional ceramic tiles… those suck and don’t even produce good quality or make our lives easier. If they stick like they stuck, then have to be chipped off, NO GOOD.
+I’m here at 6. Just input the data and leave. I’ve done my time. Play music! Love it! Talk to a friend! Love it! Love yourself. Know that you are here to do something. Be ok with being wrong and overzealous. You learn to feed your imagination, and nurture it with playfulness. You stand out for this. Be striving for a spiritual goal, a personality ideal. Not everybody’s got one of those. It’s the calm before an upcoming of activity! Prepare your body and mind, through guitar, and don’t forget the 1 month goal is coming up soon. Find a new tool. Software. Make multi-layered.
+
 ## A New 10 Commandments
 The paper is dying. College counselors need only to recite number 10 to their students. When you have a whole and meaningful dream, follow it persistently. It is your divinity.
 I wrote 10 commandments. I don’t love them. The first 3 are distilled wisdom. 4 is obscure from discussion. 5 is my strength. 6 is speculation. 7 is a reminder. 8 is something to grapple with, against my judgement. 9 is a capitalist view of things. 10 is trade secret.

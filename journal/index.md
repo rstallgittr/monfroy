@@ -7,6 +7,16 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## Find me after I take a walk
+Return once you’ve walked in a circle.
+Some things to do today: draw up this concept, get 2 more sets of plates to bond. Tack them together with wire? Definitely talk to Karen and update my storybook. That’s really all I have to do. DBBE and Normal Bloom and Meggitt. Start laying out a roadmap for Meggitt too, and for Bloom.
+Drink hella coffee today. I want it. I think I’ve earned it. 
+Ok I’ve sent a new graphite concept to Eric, and grabbed another coffee. Next on my list is talk to Karen. When you believe in things you don’t understand, then you suffer! Superstition aint the way.
+5 Monkeys always. I must tell that story in order to remember it. The superstition that we are interested in are the deeper, more subtle. Learned optimism combats that.
+Exclusively junk food grocery store. Signs everywhere warning you how bad for you it is.
+Thermal expansion, and tiles, and undercarriage support.
+I didn’t sit the second half of my day. It hurts. But worth it. I’ve shown my face and completed some basic things to progress forward and make the start of next week easy. Just CAD and starting the furnace. Lovely stuff. I have to frickin RUN now! Got a bike race to attend!
+
 ## Plants a seed and it still lingers in my mind
 Start the day with easy data, turn the excel into vertical bars.
 Stupid Excel right now. I can’t get the damn markers to show up! That includes girls. Says Jerry. I haven’t a sip of coffee yet. I feel like I could be accomplishing more. Otherwise my time here on earth is being wasted. IS that true? Nope. Doing 

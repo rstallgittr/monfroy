@@ -7,6 +7,16 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## Plants a seed and it still lingers in my mind
+Start the day with easy data, turn the excel into vertical bars.
+Stupid Excel right now. I can’t get the damn markers to show up! That includes girls. Says Jerry. I haven’t a sip of coffee yet. I feel like I could be accomplishing more. Otherwise my time here on earth is being wasted. IS that true? Nope. Doing 
+Think global, act local. Be a stone pillar. If the seed is food. Nurture that seed with playfulness. The seed is global war, food, cigarettes, Halloween. 
+When I’m home, and I am not high on weed, I can focus on ideas. When I’m high I focus much more on my relationship with my life. Like everything, a balance is needed. Stone Pillar, Dr. Strangelove, Frankenstein.
+Get on Dean’s case. Talk to Martin.
+VIP 2 power was turned off. Nobody knows! Could’ve been Carl for all we know.
+Non-Boolean??!!
+Not much today, but focus on braze tooling, because that is both a major bottleneck and a major cost.
+
 ## I left a love letter to a green prius
 I hope they received it with a smile on their face. I’m not sure who it is. It seemed female. Then got donuts. New Rick and Morty is mid. It’s gone woke. Best not to be a consumer. You are pulled gently to the sky by the crown of your head. I need to get separator sheets made, and today figure out the tack welding, and put in a rec for the FasTests, and continue refinining my storybook. I think print it out and annotate with pen. That is an effective way to visualize it, and make obvious improvements.
 ChrisH liked my 10 commandments. I like them. He called me music man, with a hint of jealousy.

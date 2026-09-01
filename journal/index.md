@@ -7,6 +7,12 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## My Father is the Zodiac Killer
+I’m grappling with how to feel. I do not relate to this particular, deeply-rooted problem in my friend. I want to carry some of the weight of it, but what does that mean? Let it both you and stop you from living correctly? It is ok to have had good parents and and easy life. It is ok. It is why I’m not truly extraordinarily out there, but that is ok. I make the life out of what I have. What I’ve been given.
+VIP 2 down. Presumably my leak test tools were purchased. We’re working on a new graphite concept. Make progress on that today. Load the VIP 2. Make it through the day. Add information to the CIA CA.
+Every day she wakeup with a different color makeup and a promise he gon take her to the movie and the mall. Mona Lisa. Jobs not dimes. Germany is struggling? I live my own life. Type 166 Schwimmwagen.
+Heaven is a place where nothing… nothing ever happens.
+
 ## Find me after I take a walk
 Return once you’ve walked in a circle.
 Some things to do today: draw up this concept, get 2 more sets of plates to bond. Tack them together with wire? Definitely talk to Karen and update my storybook. That’s really all I have to do. DBBE and Normal Bloom and Meggitt. Start laying out a roadmap for Meggitt too, and for Bloom.

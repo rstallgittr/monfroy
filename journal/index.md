@@ -25,6 +25,7 @@ Osho teaches that modern people are not easily able to sit right into meditation
 3.	Jumping hands above head Hoo! 10 minutes
 4.	Just sitting, taking in everything around you (completely motionless) for 15 minutes
 5.	15 minutes of dancing and celebration
+
 Let’s involve Scott in the process! Get his eyes watching the contamination on the furnace to have him spot any trends.
 Tomorrow we’ll give Martin 1 assembly and a bunch of PTCRs. Tomorrow will clean Senior cold wall. Tomorrow will put the MTI in its place. 
 Think about the Guru business. Just have to practice.

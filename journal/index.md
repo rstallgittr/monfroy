@@ -17,6 +17,7 @@ I need to have beans all the time. It takes 5 minutes to soak it but 2 days to s
 a.	Inside outside (ears and plate, and channel collapse)
 b.	Include the overdone plate
 5.	Resistance brazing tack thru braze paste face
+
 Thank gosh I don’t think that stuff is IP. I burned my lunch break. I mustn’t forget the Number 2 commandment. The best thing you can do for your creativity is devote time to it. I burned it last night as well with Instagram. Today with Instagram.
 Osho teaches that modern people are not easily able to sit right into meditation. A series of steps may occur that prepare the mind and body. 
 1.	Sharp breathing 10 minutes

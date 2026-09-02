@@ -7,6 +7,27 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## Yogis don't cook. They have rejected fire.
+Plum apricot. 150 plates Prepare 100 pieces. There are options for braze fixturing for B****. There is ideally no fixturing. But with no fixturing, repeatability is low. With excessive fixturing, the process is difficult, which also results in low repeatability. With the minimum level of fixturing, ease of assembly and repeatability should be high.
+I need to have beans all the time. It takes 5 minutes to soak it but 2 days to soak. Beans curry.
+1.	Induction heater + chiller
+2.	Induciton coil designers (custom 4, ambrell dmeo on site)
+3.	Laser tack welding and seam welding (ebay) & MORE
+4.	Diffusion bonding 30 minutes & microstructure (smaller samples)
+a.	Inside outside (ears and plate, and channel collapse)
+b.	Include the overdone plate
+5.	Resistance brazing tack thru braze paste face
+Thank gosh I don’t think that stuff is IP. I burned my lunch break. I mustn’t forget the Number 2 commandment. The best thing you can do for your creativity is devote time to it. I burned it last night as well with Instagram. Today with Instagram.
+Osho teaches that modern people are not easily able to sit right into meditation. A series of steps may occur that prepare the mind and body. 
+1.	Sharp breathing 10 minutes
+2.	Catharsis 10 mins (any errant sounds: laugh, shout, scream, jump, shake, etc)
+3.	Jumping hands above head Hoo! 10 minutes
+4.	Just sitting, taking in everything around you (completely motionless) for 15 minutes
+5.	15 minutes of dancing and celebration
+Let’s involve Scott in the process! Get his eyes watching the contamination on the furnace to have him spot any trends.
+Tomorrow we’ll give Martin 1 assembly and a bunch of PTCRs. Tomorrow will clean Senior cold wall. Tomorrow will put the MTI in its place. 
+Think about the Guru business. Just have to practice.
+
 ## My Father is the Zodiac Killer
 I’m grappling with how to feel. I do not relate to this particular, deeply-rooted problem in my friend. I want to carry some of the weight of it, but what does that mean? Let it both you and stop you from living correctly? It is ok to have had good parents and and easy life. It is ok. It is why I’m not truly extraordinarily out there, but that is ok. I make the life out of what I have. What I’ve been given.
 VIP 2 down. Presumably my leak test tools were purchased. We’re working on a new graphite concept. Make progress on that today. Load the VIP 2. Make it through the day. Add information to the CIA CA.

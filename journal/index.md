@@ -7,6 +7,17 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## Imagine the Synth possibilities
+That synth that Chrish has is frickin DOPE. The one C key needs to be fixed. But that can be done. Tomorrow is my month deadline for ambient synth performance 10 minutes. I think I’m ready. I just have to go to the Studio 2 and plug it in and start a clock, and find a good sound, and keep working, then play with the evolving sounds, and rock out. Step away from the synth, feel it out, pan the audio, and come back. Let it evolve as I feel it should. Sit with it for a few minutes.
+Today I have quite the list. Eric wants to slow down on GM run. For why? No reason it seems. Whatever. There is more work to do. I have to go walk about in a second when I chug some of my coffee.
+I bought what should be a quality dongle which should allow me to charge the ipad, plugin keystep, and also plug in a c-to-3.5 dongle to play out to the speakers at SDL. We’re almost ready. Just need to plan it out on paper so that I can follow a program. It is free-flowing, loosely following a preplanned structure. The note is more of a list of things to remember. I need one of those small notepads that flips on the short edge. That’s what they all got.
+It is important that I spend time preparing for the activities which I will do with people. Today that means prepare all the materials necessary to clean out the cold walls of Senior. We will mark in the maintenance logbook the cold wall cleaning.
+Learning is primary. Contribution is secondary, and as a result of, learning. The mind is enriched by learning, so that when it is time to do, you may enrich your soul through thoughtful action.
+Focus on MTI, in its permanent place. Get the chiller and power cable in place, looking very professional. Nothing janky about it.
+Martin gave good suggestion and positive input!
+Simple thing is to log the maintenance real quick.
+I bought a Mackie 1402 VLZ mixer for $50 from goodwill auctions. It will be sick I’ll do no-input mixing synth. LFG!
+
 ## Yogis don't cook. They have rejected fire.
 Plum apricot. 150 plates Prepare 100 pieces. There are options for braze fixturing for B****. There is ideally no fixturing. But with no fixturing, repeatability is low. With excessive fixturing, the process is difficult, which also results in low repeatability. With the minimum level of fixturing, ease of assembly and repeatability should be high.
 I need to have beans all the time. It takes 5 minutes to soak it but 2 days to soak. Beans curry.

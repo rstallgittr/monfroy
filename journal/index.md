@@ -7,6 +7,15 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## Today is the performance day, get nervous
+I unlocked more live electronic skills last night, and bought a mixer to use for no-input mixing. The back and forth multiple apps, background, looper, if only I could mod the volume on the looper easily. Then I’d be able to fade stuff in and out.
+Reminder to be present today, like in all days. Take a second to listen. Take many seconds to listen, both to your environment and your thoughts. Remember the seed.
+Titan. B**** Meeting. Laser marking tooling. Here I sit and think. Laser plate tooling. 
+My name is Monfroy, but my name needs to start with an A. For competitions. Amonfroy. Maybe just slap the a on the front. It’s my own name to fuck with, and distort to my liking. It is no game to me. I can do what I wish. I create which I create. I am a stone pillar. I will last as a shelter under which to rest. I started easy because it is mine to share with people. I do come from the land of Froy, the land of peace. The dysfunctions of this world are foreign to me. People latch onto things which are steady. The collective conscious gives my life just as my life gives to the collective conscious. I am all things. I do all things. Most important to me for my spiritual connection to the surround is the music. MUSIC taps into the movement of the heart. Make it organic, like us. Insert Tom Sachs quote. People feel with their hearts, but buy with their eyes. I wish I had my keyboard with me now. I would jam out.
+I want to bring some zen to VIP 2. That is my highest priority once I get this answer from claude. AuV3 allows me to prt the model d into garageband?? I’ll need to try that.
+VIP 2 is running with a bond which should be approaching max temp around 9am tomorrow. I would say I brought the zen to VIP. Jessica wants me to leak check a few assemblies. I’ll leak check 4 of them.
+Have I found zen so far today? A bit. I must sit with these koans for longer. For years. Revisit them. Love them. Pass them down. Tonight is my performance to nobody. It’s gonna be great!
+
 ## Imagine the Synth possibilities
 That synth that Chrish has is frickin DOPE. The one C key needs to be fixed. But that can be done. Tomorrow is my month deadline for ambient synth performance 10 minutes. I think I’m ready. I just have to go to the Studio 2 and plug it in and start a clock, and find a good sound, and keep working, then play with the evolving sounds, and rock out. Step away from the synth, feel it out, pan the audio, and come back. Let it evolve as I feel it should. Sit with it for a few minutes.
 Today I have quite the list. Eric wants to slow down on GM run. For why? No reason it seems. Whatever. There is more work to do. I have to go walk about in a second when I chug some of my coffee.

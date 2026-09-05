@@ -7,6 +7,14 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## I love life, I love providing the music which arises movement
+Soundbath for SDC every Thursday. I’ll get better and better every week. My setup will get better and better every week. My control will get better, and the more you practice, the more you channel the music. Hone your lightning rod.
+I need to reprint out the 10 tenets of creativity. It aligns strongly with the philosophy of music practice. The creativity is all around, and I just reach up to the sky to invite it to strike the tip of my finger and crawl through my veins to my shoulders, where it explodes into my chest, and expands like a balloon in a bottle down my thighs, before lighting my soles, leaping me into the air.
+I’ve talked about it enough. Let me please gently move through the day, touching the problems in my little green book. Move gently through the day, touching items in my green little book. I really would like to have a laser plate. It will accommodate a bloom part. Then I can print and then I can have it machined with metal. My job is metals, and metal, and meta. And love. And gentleness, and movement. And tents. And stacking. How to stack and how to separate. Separate is an anti-loving word. Isolate is even worse. Protect is too soft. To make inert is somewhat what I mean. But that’s too many words. To inertify a thing. Yoou inertify  a thing with compatible, or incompatible, materials. This means higher temperature materials almost always. The highest temperature materials fare the best. This is ceramics, refractory metals. It needs to be a diffusion barrier for diffusion bonding, and for brazing it needs to be a non-reactive spacer which holds its shape under heat. For bonding, it must also transmit load and prevent carbon diffusion. For brazing it is just a cradle which keeps each part in its own cozy bed within which it will drift off to sleep, and wake up a new part. 
+I put the half ear concept together. What other concepts can we do? Think gentle cradle. Why were we turned off from continuous furnace in the first place?
+Why are there pinhole leaks? It’s not that there is increase gap there. Or maybe it is, but unlikely.
+Titan did not burn down. It did pop, likely from overcurrent in some way , or from insufficient water at the electrode feedthrough. There is Wes’ story, and there’s Jerry’s story, and the truth is somewhere in between.
+
 ## Today is the performance day, get nervous
 I unlocked more live electronic skills last night, and bought a mixer to use for no-input mixing. The back and forth multiple apps, background, looper, if only I could mod the volume on the looper easily. Then I’d be able to fade stuff in and out.
 Reminder to be present today, like in all days. Take a second to listen. Take many seconds to listen, both to your environment and your thoughts. Remember the seed.

@@ -7,6 +7,17 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## 1 month foal for 10.08.2026
+Something along the path. Real hardware, clocked, drum machine? Maybe that’s too much spending.
+We’re back. Let’s actually develop a good process for B****. Let’s make sure we can mass produce a good braze joint on the tubes. We know exactly how to braze the plates to plates. That’s easy, screenprinting. We really want to get lasering trials going. That means tooling. Jim’s gonna be bothering me for it soon enough.
+We want to design a good process for B****, emphasizing our own expertise above all else. Vacuum Brazing means a good understanding of vacuum technology, vacuum furnaces, equipment, and procedures. That means outgassing the paste in low vacuum.
+I almost forgot. Typing with eyes closed is how you see what you really ought to see. The 5 senses may lie to you. Sight most of all. The vision in fronr of you is actually the vision within you.. Is is the one which makes the world make sense to you. It is how you fit into the large moving pile of beads. Shifting, osmwhat is controlled locally, but one bead can nonly ever really impact the beads it directly touches.
+How to present pure entertainment. Shock, sensory experience, space to digest. No inhibitions about how you are supposed to enjoy something. A gentle reminder that you may have the most fun in whatever way internally you must.
+The things to do today include: draw up a worksheet, based directly off of Karen’s, find a clipboard. Go place a part on the laser and then come back to draw up a print. Put a sticker on a new N2 bottle so it may be claimed for VIP 2. Enter VSE room to look at the stack we have. Tease it out. Attempt to draw it. Start there. Those are some easy things which will move the product forward.
+Wesley says our job is to bring in business. Win business over making money. Money comes from winning business.
+Ok I worked on SpaceX, but did not do anything I was supposed to do. When I get back from lunch. VIP 2 can wait.
+The Girl from Ipanema
+
 ## I love life, I love providing the music which arises movement
 Soundbath for SDC every Thursday. I’ll get better and better every week. My setup will get better and better every week. My control will get better, and the more you practice, the more you channel the music. Hone your lightning rod.
 I need to reprint out the 10 tenets of creativity. It aligns strongly with the philosophy of music practice. The creativity is all around, and I just reach up to the sky to invite it to strike the tip of my finger and crawl through my veins to my shoulders, where it explodes into my chest, and expands like a balloon in a bottle down my thighs, before lighting my soles, leaping me into the air.

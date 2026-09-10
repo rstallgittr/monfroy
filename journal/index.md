@@ -7,6 +7,13 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## Story with 3 acts of the cabaret-goer for 10.08.2026
+This is a doable goal. I had intended for each month successive to be in pursuit of 1 end goal after a year, but I can totally get to that 1 year goal of a repeating event before a year, and really my goals lie on creating art which I am proud to share. And MOST IMPORTANTLY, make people feel a way, whatever way they are moved by an experience. Give people and experience that makes them feel.
+Thus, the goal is in pursuit of my story-ification of the Cabaret. Nothing about the dance changes, but the Comedy has to be adapted to tell a story. There mustn’t be an isolated comedy section. There is a story to be told. A psychedelic, tumbling journey through the depths of showbiz, with scenes, a hero, and a message. I will write the story of the cabaret. This means I have to expose myself to the stories of cabaret, through movies, books, etc. There are acts.
+Keshawn says I need peace for my mind. I couldn’t disagree more! My life is great, and I am living it how I want!
+Soul is the understanding you have when you don’t understand fully. Allegedly, as you progress, your understanding goes beyond the word soul.
+No more sitting today. Keeps me on my toes. Get everything done as fast as possible. First Modify the worksheet, then whip up a print. Print and print.
+
 ## 1 month foal for 10.08.2026
 Something along the path. Real hardware, clocked, drum machine? Maybe that’s too much spending.
 We’re back. Let’s actually develop a good process for B****. Let’s make sure we can mass produce a good braze joint on the tubes. We know exactly how to braze the plates to plates. That’s easy, screenprinting. We really want to get lasering trials going. That means tooling. Jim’s gonna be bothering me for it soon enough.

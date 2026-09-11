@@ -7,6 +7,14 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## Getting paid to draw makes you a professional artist
+That is not the exact correct messaging for this case. Especially the line about getting paid to draw. I’ll work on that today. Think of the correct messaging for the cultural shift towards DOE and scientific method.
+Intermission. Let’s talk about Diffusion bonding Inconel 600. Last night I did closed eyes brainstorming, and accidentally typed several paragraphs into my password field for some reason. I lost that, openinged my eyes, and found even better ideas flowing out. A better picture. Really it was the closed eyes splatter that helped me find it. Today I am not sitting.
+Put together the most simple document: microstructure, planned thermal profile, strip chart. We can see what was intended, what actually happened, and the result. Get as many SNs as we can. This is the most powerful document for investigation of Diffusion bonding.
+Gold Yoga, Oro Yoga, Techno Yoga. Fear and Greed.
+Knobs vs switches. Life is knobs. Everything is ok. Industry is switches. On or off. If you try to control industry with knobs, you are anti the philosophy. If you try to control life with switches, you similarly fail, but in a more disillusioned way.
+Spiritual Quality, observation, with major respect to the observer’s mindset. No judgement during observation. I love life. I wish the guy would respond to me about the Behringer Edge.
+
 ## Story with 3 acts of the cabaret-goer for 10.08.2026
 This is a doable goal. I had intended for each month successive to be in pursuit of 1 end goal after a year, but I can totally get to that 1 year goal of a repeating event before a year, and really my goals lie on creating art which I am proud to share. And MOST IMPORTANTLY, make people feel a way, whatever way they are moved by an experience. Give people and experience that makes them feel.
 Thus, the goal is in pursuit of my story-ification of the Cabaret. Nothing about the dance changes, but the Comedy has to be adapted to tell a story. There mustn’t be an isolated comedy section. There is a story to be told. A psychedelic, tumbling journey through the depths of showbiz, with scenes, a hero, and a message. I will write the story of the cabaret. This means I have to expose myself to the stories of cabaret, through movies, books, etc. There are acts.

@@ -7,6 +7,14 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## Samurai
+Starting notes at 11:30. There are players and there are spectators. All the world’s a stage. I must talk to Thermal. Ben K and Mina B from S***** are real, ESPECIALLY Ben. Let’s treat them like we don’t want to be smooshed and mopped up like they have been doing to us.
+If someone’s to go to Mars, this is my fucking in. Hold them here until I’ve been able to bridge over. Take care of myself. Communication is an art. Love the opportunity in front of me. I do love it. I have much gusto, much ideas, much ability to listen and observe, Also much prejudgement. There is a delicate balance between non-pre-judgement and quick decision making. That balance is where I must grow.
+That really is something I’ve wodered about in the past. How to quickly judge situations based onyour morals and values. Understand where a situation fits in relation to your values. Quickly know how to feel about a situation.
+There are cucks and losers in this world. It is ok to lose. It is not ok to be a loser. When your organization is full of losers, you have a loser culture. It will drag the fragile winners down with it. Do not let the losers speak for you, represent you. This is a case where it is right to disgrace the behavior with negativity. Having a loser mentality is the enemy. The opposite of loser mentality is creator mentality. Create, feel the correctness by remaining open to the guidance of intuition and nature, to be a creator. Losers have a can’t mindset, and that is self-doubt which poisons them and everything they touch.
+So how to work with losers? Keep distance. Their touch is poison, so let their tendrils slip right off you. Become invincible to their thorns.
+I am a winner. I shall surround myself with winners, only work with winners, and speak for myself before ever letting a loser speak for me, or represent me. My values are mine, and shall they be misrepresented, there is scorn to replace friendliness.
+
 ## Getting paid to draw makes you a professional artist
 That is not the exact correct messaging for this case. Especially the line about getting paid to draw. I’ll work on that today. Think of the correct messaging for the cultural shift towards DOE and scientific method.
 Intermission. Let’s talk about Diffusion bonding Inconel 600. Last night I did closed eyes brainstorming, and accidentally typed several paragraphs into my password field for some reason. I lost that, openinged my eyes, and found even better ideas flowing out. A better picture. Really it was the closed eyes splatter that helped me find it. Today I am not sitting.

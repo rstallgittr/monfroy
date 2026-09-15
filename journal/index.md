@@ -7,6 +7,14 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## Who are your Five?
+It’s the people you actually spend time with, and not the people you look up to. Key words Spend Time. This weekend. I am. How now to convert my practice into connection, and how to convert my dreams into practice.
+Dreams into practice.
+Foundation Alloy, Madison. Singular focus. External activities which serve the brain. Dreams to practice. Create a practice here at work. I know how to practice. Take a risk. Connections still exist. Cut the facial hair. Gone. Same me, and you can see my face now. What do I do here? Make the flyer. Put it into hands.
+Sell yourself well.
+Singular focus. Everything is singular focus. Those who reach the top have a singular focus. Even when it looks like many things, it is really a singular focus.
+Thing I’ve been forgetting is the distillation. New Page on website devoted to distillation.
+
 ## Samurai
 Starting notes at 11:30. There are players and there are spectators. All the world’s a stage. I must talk to Thermal. Ben K and Mina B from S***** are real, ESPECIALLY Ben. Let’s treat them like we don’t want to be smooshed and mopped up like they have been doing to us.
 If someone’s to go to Mars, this is my fucking in. Hold them here until I’ve been able to bridge over. Take care of myself. Communication is an art. Love the opportunity in front of me. I do love it. I have much gusto, much ideas, much ability to listen and observe, Also much prejudgement. There is a delicate balance between non-pre-judgement and quick decision making. That balance is where I must grow.

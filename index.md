@@ -1,5 +1,6 @@
 ---
 title: "Monfroy"
+show_home_button: false
 ---
 
 # Homepage

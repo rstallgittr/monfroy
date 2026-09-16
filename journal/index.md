@@ -7,6 +7,13 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## Humberto
+How to distill down all the day’s learning into 2 sentences? We learned today more about the behavior of moly sintering. Single digit micron grains from nano powders. Pure Moly sinters at higher temps 1500C, rather than 1450 for the alloyed. Tungsten also possible, but you need an 1800C furnace. They are heat limited, and clearly, we’re one of the very few who will job shop this out.
+We’re so desperate, we will wait predatorily by the door, and push our furnaces where they shouldn’t be pushed, because there’s an attractive customer.
+I learned that transformers humm and buzz at high temperatures. Should they aggressively shake? No. I learned where the hotspot is in the angle valve of a large diffusion pump.
+I learned that Bill is not the expert at maintaining furnaces. He has his limits. He has no way of putting a number on the health of the furnace. Permanent power meters would allow us to see drift over time.
+Jim just came in to pick a fight.
+
 ## Who are your Five?
 It’s the people you actually spend time with, and not the people you look up to. Key words Spend Time. This weekend. I am. How now to convert my practice into connection, and how to convert my dreams into practice.
 Dreams into practice.

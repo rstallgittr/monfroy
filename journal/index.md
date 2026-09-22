@@ -7,6 +7,16 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## eVTOL
+I made it back. The Wednesday entry is in github only. Today is a day back. FA is happy. The team did good.
+Our emotions must be untouchable, such that the only thing that matters is the work we did for the customer. When pride enters the picture, hear it and steer away from it. There was tension last week because we felt like we needed to provide a piece of service that FA needed. That is over and done now, and FA got exactly what they wanted from us. No time for beef. Likely, beef will persist because someone had too much time to stew.
+Listen to the fear, pride, greed, wrath, sloth, lust, gluttony, envy in peoples words and body language.
+Feral pigs. I think I need to get back on track. Try to do some work that generates paper before I take a walk to the other building to check on the data collection.
+Plasma theory. Snarky Zen masters. Rather relaxed today. The team is good. Jim is back on Team I think.
+Learn today about FTIR. The art of living. Joseph Campbell. Do not let anything intrude on your time.
+I’m apparently not cancelled from the Cabaret! Wooh! I am on the flyer for the skydiving.
+Maltese Falcon Tonight. My synthesizer arrived. Get ready to focus on my art. Every day.
+
 ## Cosmic Infinite Current (CIC)
 Do the right things as this body may. Compassion, love, all the things. Detatchment from this life. This body is just a light bulb, plugged into the mains line that is the universe. This lightbulb gets jealous of the brightness of the bulb next to it, without realizing that the same energy flows through both of them.
 We handled this situation all in all very good. The customer was tended to with truth. We became scapegoats in a sense. But scapegoats who you would choose to work with again, because of our curiosity, willingness to help, and comforting presence. The love and the drawings on the board. Mostly the love. Aaron is coming around to the forgotten guidelines for their partial pressure runs, the practices, the redundancies, etc. Martin likes working with us, and wants to help us grow into competent furnace people. Furnace team works with us, and teaches us about how they work. Makes us closer to experts. Maintenance team shares our perceptiveness, and contributes to problem solving in real time. The business people take all that work and spin it into a quarterly update so that they may feel important. The VPE machine is working just as intended, exactly as every machine works when recovering from an illness. It is remembering what it feels like to be alive, and coming out of the deep sleep is uncomfortable. There are so many responsibilities of the living. 

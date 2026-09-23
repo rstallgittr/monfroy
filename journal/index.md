@@ -7,6 +7,15 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## Do silent Tasks
+How’s my focus on the art going? Yesterday I only did synth. I’m behind on guitar. Aluminum bronze is dope. My background screen was toucan, then changed to Daybreak by Parrish, but that was too explicit, so it’s currently The Last Supper by Leonardo. Funny they call him Leonardo. I need some quiet time tonight to focus on my own art. Monday I engaged with film, Tuesday I bike kitchen and jam. Wednesday I cabaret. I have nothing planned yet. I will do my best to plan this before 5.
+Lab. Furnace stacking. The induction unit is this much closer to operation. I still need the chiller really hooked up, like lines from chiller to induction unit. I need to power both the controller and power unit off the same plug. Maybe craft up a box for that?
+The lab has been worked on. Time for some furnace stacking design. It is funny that I have nothing to do. The company all works around me. My job is nothing in particular. Keep inspiring the growth of the company. Lure in the customers when they come.
+What problems should I really be solving? What matters? When my job gets slow, I despise it. When it becomes less obvious what my job is. When it’s busy, and there is some people problem, I love it and want to stay. 
+I am the person who’s team you want to be on. Even if they question at times, be jealous, or whatever. They recognize the effect I have. It is in motivation, focus on quality, positivity, zen, science, intuition.
+Today I shall leave early, so that I may make my appointment, and so that I have time to devote to my study. The most ignorant thing I could do is neglect my study.
+What is that which is calling me to leap off the edge? This is my early life question to rule them all. Dive off and swim because my life is what I do. Dive off into the deeper appreciation for life. Art of living.
+
 ## MFB-522
 It’s certainly fucked up that I’m already eyeing my next bit of hardware. I do need a real drum machine. I think I’ll have to ipad it for now. I have midi clock, technically a synth lead, I have a wicked noise maker. I need the proper cordage to get in and out of my mixer. I’ll need to try to do the guitar amp in, so I can use my 3.5mm to ¼” jack adapter for the phones out to my speaker. What a jank setup for now.
 I really need to build a table or rack or something. It should be portable somewhat, and holds my gear securely, and can keep cables run constantly for easy movement.

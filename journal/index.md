@@ -7,6 +7,16 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## MFB-522
+It’s certainly fucked up that I’m already eyeing my next bit of hardware. I do need a real drum machine. I think I’ll have to ipad it for now. I have midi clock, technically a synth lead, I have a wicked noise maker. I need the proper cordage to get in and out of my mixer. I’ll need to try to do the guitar amp in, so I can use my 3.5mm to ¼” jack adapter for the phones out to my speaker. What a jank setup for now.
+I really need to build a table or rack or something. It should be portable somewhat, and holds my gear securely, and can keep cables run constantly for easy movement.
+Anyway I should do work now. I bid on a drum machine lol. Talk about impulsive. Let’s go walk around like a real employee.
+I’ve unloaded VIP2, printed my label, I need to collect label, cryo the cryo, and keep moving.
+The mechanical pump sounded completely normal. The He bottle lasts several months. I’d like to Leak check the gas line next time the bottle is changed.
+Learn today. Practice my synth all day. I become master by practicing it all the time. Create the noises I want to hear. Add other noises in. Can it sample stuff? I really wonder what external audio can do. That one is very interesting, and the VCO MOD.
+Induction maybe this afternoon? Learn something by doing it.
+Sent an update on CIA staining. There’s some evidence of actual work! WoW! I cannot believe it! Now I just need to follow up on the EDMing of my diffusion bonded samples just as a note to Eric and Carl. Then get some sort of result from plugging in the induction.
+
 ## eVTOL
 I made it back. The Wednesday entry is in github only. Today is a day back. FA is happy. The team did good.
 Our emotions must be untouchable, such that the only thing that matters is the work we did for the customer. When pride enters the picture, hear it and steer away from it. There was tension last week because we felt like we needed to provide a piece of service that FA needed. That is over and done now, and FA got exactly what they wanted from us. No time for beef. Likely, beef will persist because someone had too much time to stew.

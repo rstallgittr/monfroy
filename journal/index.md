@@ -7,6 +7,12 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## Argue with your friends, do physics
+Do physics. This makes you what Elon would refer t as first principles. An Expert in 1st principles. When you’re that, you have a greater understanding of the world. I am only speculating. When you are an expert of physics, you are capable of extending the knowledge further. You can be a pioneer. Only when you know what is already, can you discover what could be.
+It is like the practice of the guitar. You must learn the rules so thoroughly that you may create without thought. Learn physcs fully, and you may approach problems without thought, but with intuition. Intuition which is informed by all of the science in all of human history. Practice rules so that your intuition is informed. Stand on the shoulders of Giants. They would be disappointed to find how many people take for granted the great amount of thought, care, blood, sweat, and tears went into the understanding of physics which is required to sustain our modern world.
+Love. Practice the rules beyond when it is easy. Push into the zone of learning, new ideas, boring repetition. This is where you live before you become informed.
+Zhan Zhuang. We will make a sage out of Noah yet. We will unplug Noah bit by bit. He will become more spiritually connected to his work, his life, and his community.
+
 ## Do silent Tasks
 How’s my focus on the art going? Yesterday I only did synth. I’m behind on guitar. Aluminum bronze is dope. My background screen was toucan, then changed to Daybreak by Parrish, but that was too explicit, so it’s currently The Last Supper by Leonardo. Funny they call him Leonardo. I need some quiet time tonight to focus on my own art. Monday I engaged with film, Tuesday I bike kitchen and jam. Wednesday I cabaret. I have nothing planned yet. I will do my best to plan this before 5.
 Lab. Furnace stacking. The induction unit is this much closer to operation. I still need the chiller really hooked up, like lines from chiller to induction unit. I need to power both the controller and power unit off the same plug. Maybe craft up a box for that?

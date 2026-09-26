@@ -7,6 +7,17 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## How to make office smell good?
+Rule 1: Leave the super-smelly farts outside. Rule 2: It’s ok. The aura you bring includes the smelly farts. Stand straight, heavy through the hips and legs, arches or circles everywhere. Stabilize your joints by using all the muscles around each joint to locate that joint within its envelope.
+Physics problem, ordering some specialty fittings. Done that. Surfing tomorrow. I think going up tonight might be nice. We’ll see if that comes to pass. It’s so funny that we were at SDL til 1 am, and then I burned an entire hour on Instagram from 2-3, and I feel ok. I had done my living and practice for the day. There was nothing left to do but sleep, and I reqarded myself with brainrot which was impossible to escape. IN a way, it was like sleeping, in that I wasn’t active by any means.
+I outght to write myself a letter which will refresh me on Monday morning. Here goes:
+Arrive and the most important thing is taking your steps so that when you reach the cliff, you are ready to leap. Practice the things: Zhan Zhuang, physics problem, induction, brazing fit-up, root cause analysis.
+	I say practice induction because your goal is a combination of study the fundamentals, and get your hands dirty. It is something which when done every day, you become more and more proficient, and when it comes time to apply the knowledge, you are ready.
+	Vish will remind you of the snakes in the grass, and you will try to balance that with diplomacy and same-team-theory. You are capable of running through a wall. Make a list of all the details of the induction units and what we need. Identify longest lead time items. That is the most basic unit of productivity. Do just that and you’ve made progress, and can have your own time for learning and contemplation.
+	Try to get sleep this week, but never forget that time is your greatest ally. Time spent while not engaged is potential you will never realize. Love the process.
+Best,
+Riley
+
 ## Argue with your friends, do physics
 Do physics. This makes you what Elon would refer t as first principles. An Expert in 1st principles. When you’re that, you have a greater understanding of the world. I am only speculating. When you are an expert of physics, you are capable of extending the knowledge further. You can be a pioneer. Only when you know what is already, can you discover what could be.
 It is like the practice of the guitar. You must learn the rules so thoroughly that you may create without thought. Learn physcs fully, and you may approach problems without thought, but with intuition. Intuition which is informed by all of the science in all of human history. Practice rules so that your intuition is informed. Stand on the shoulders of Giants. They would be disappointed to find how many people take for granted the great amount of thought, care, blood, sweat, and tears went into the understanding of physics which is required to sustain our modern world.

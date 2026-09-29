@@ -7,6 +7,14 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## I want to learn a folk song today
+On the kalimba. It’s good, norweigian wood.
+I’ve worked on the drawing, haven’t discussed Gilgamesh yet, but have a working drawing of some level of quality. I need to now check in on my other things. I need to go stop by 190 for root cause check in. Make slight progress on that. Then Identify all the things required to make the induction work. Reward yourself with physics, and Zhan Zhuang. It’s time for a walk. I’ll hit the places.
+There is no evidence that I exist on the right side of the bell curve. What I can say is that I am a professional wanderer.
+First half of the day was productive. Second half most certainly was not. The middle, where I was transitioned into my new program, felt at the time like when I finished that, I had accomplished work for the day. But the afternoon was anti-productive. I received anti-zen advice from Vish, and spent more time waffling than doing anything. I learned silent night, though, and finally, at 6:45, finished my physics problem.
+Physics problem is a major win.
+Vish says to make Eric look good. I’m working on that with my green belt project. I could spend some more time on that every day to be honest. I should. I need to get the induction actually going. Keep doing some portraits, though. That is extremely important to my life. Not to this job.
+
 ## How to make office smell good?
 Rule 1: Leave the super-smelly farts outside. Rule 2: It’s ok. The aura you bring includes the smelly farts. Stand straight, heavy through the hips and legs, arches or circles everywhere. Stabilize your joints by using all the muscles around each joint to locate that joint within its envelope.
 Physics problem, ordering some specialty fittings. Done that. Surfing tomorrow. I think going up tonight might be nice. We’ll see if that comes to pass. It’s so funny that we were at SDL til 1 am, and then I burned an entire hour on Instagram from 2-3, and I feel ok. I had done my living and practice for the day. There was nothing left to do but sleep, and I reqarded myself with brainrot which was impossible to escape. IN a way, it was like sleeping, in that I wasn’t active by any means.

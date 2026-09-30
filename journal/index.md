@@ -7,6 +7,16 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## Induction Today
+Induction today. I hooked it up, everything is drawing power from the one plug. But you know what? It frickin works. Everything powers on. I need to check that the water alarm is off now that the chiller.
+I want to jam. Really I want to try to connect without being annoying. Really I want to live my life according to my own tastes. Follow my own bliss. Last night, my own bliss meant kalimba, then synth. I’m getting better at the synth for real though. I know how to get a normal ish sounding drum: kick and snare. Maybe. But I understand where to start.
+Silent Night. Holy night. Work for myself. That is the opposite of working out of fear. Fear is the enemy. I wish to not act out of fear.
+Images from Ambrell. I can’t believe I said I want to connect without being annoying. I need to follow my own bliss. Take my own damn path. Never worry about what people think. That is poison. Do physics right now because I want to do it. To Sharpen myself. To practice. To understand first principles so that I may understand the world around me. To feel the strange forces of the universe. What I really want to do is drive back to San Francisco and spend a few more days wandering.
+Humberto.
+Silent Night.
+The Thermo Fisher chiller does maybe 20 l/min max. It asks for much more than that. They have someone else to report to. We have people to report to. I’m working for someone else. Not my own joy. My lease is up in February. Then it goes month to month.
+Cheating isn’t real. But working against your best self.
+
 ## I want to learn a folk song today
 On the kalimba. It’s good, norweigian wood.
 I’ve worked on the drawing, haven’t discussed Gilgamesh yet, but have a working drawing of some level of quality. I need to now check in on my other things. I need to go stop by 190 for root cause check in. Make slight progress on that. Then Identify all the things required to make the induction work. Reward yourself with physics, and Zhan Zhuang. It’s time for a walk. I’ll hit the places.

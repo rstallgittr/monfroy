@@ -7,6 +7,18 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## How many people try to cheat, and never win?
+Fear is the mind killer. The only thing we have to fear is fear itself. Good morning! The greatest privilege of all is to be yourself. I am myself first and foremost. I am a good writer, and I am interested in stories.
+Zen Buddhism. Qi Gong. Joseph Campbell theory. Leonardo. Study in ancient Greek. Study in antiquity. Most important thing. The renaissance.
+Stay on your feet. Memory palace. Use story to remember things.
+I want to run my vacuum runs in Super 7 so that I may have my hands in another furnace. Simple. Nothing beyond just hands.
+Get the ABAs.
+Throw some 321 stainless in an air oven to create TiO2.
+I need to get the EDM cuts back and get them mounted and polished, even if it means sending out.
+Do it with them, do it without them. Always. Must always retain that basic dignity. Your personal pleasure in an activity.
+Adiabatic expansion has plagued my mind all day. I must try it now or else risk losing all my thoughts.
+Leave it here for today. Behave yourself, adiabatic speed of sound bulk modulus problem.
+
 ## Induction Today
 Induction today. I hooked it up, everything is drawing power from the one plug. But you know what? It frickin works. Everything powers on. I need to check that the water alarm is off now that the chiller.
 I want to jam. Really I want to try to connect without being annoying. Really I want to live my life according to my own tastes. Follow my own bliss. Last night, my own bliss meant kalimba, then synth. I’m getting better at the synth for real though. I know how to get a normal ish sounding drum: kick and snare. Maybe. But I understand where to start.

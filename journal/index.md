@@ -7,6 +7,15 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## 0.1 MPa to psi
+I cannot believe it. I have not written anything until now. This morning began with induction, and physics. And this afternoon began with induction, and physics.
+This problem is cursing me. It is literally just doing a math proof from a limited number of equations, substituting and such. Should be easy. The other problem, the free expansion, is more difficult, and an actual problem, with conceptual understanding required. I need to give the symbol one another go, and then the conceptual free-expansion one a go as well. 
+I need to make a plan for the 321, and get the EDM blooms back. I need to test to make sure the pressure switch on the man cab is working or not working. I’ve only got rough evidence indicating it isn’t working. I’ll try again with flow.
+I want to give up my focus tonight, but I must keep my focus. That will be easy since it’s just music and reading that I need to focus on. Maybe some writing. And Eatying food. Please make rice tonight and make good meal out of it.
+Leave it to Beaver. No time to question my existence. Campbell says that the moment of going into the forest is in your middle age. SO what to do at my younger age? Focus the art, take a leap. It’s never too early to start the journey.
+That No. 15 problem was a dumb problem. It feigned difficulty, but was actually very simple. It made it seem like there was heat flux to be considered, but there was not. Simple ratio. Couldve been done without any numbers. Maybe I should try to do it symbol-only, no numbers. Nah.
+Time to go home. I am resisting the urge to look up how to show the adiabatic bulk modulus. Tomorrow I shall pick it back up.
+
 ## How many people try to cheat, and never win?
 Fear is the mind killer. The only thing we have to fear is fear itself. Good morning! The greatest privilege of all is to be yourself. I am myself first and foremost. I am a good writer, and I am interested in stories.
 Zen Buddhism. Qi Gong. Joseph Campbell theory. Leonardo. Study in ancient Greek. Study in antiquity. Most important thing. The renaissance.

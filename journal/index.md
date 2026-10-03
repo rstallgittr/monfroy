@@ -7,6 +7,17 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## Did you exchange a walk on part in the war, for a lead role in a cage?
+Happy Friday! Started the morning with an Ube cookie curtesy of Sheralyn by way of Lisa Fields. Wes said it has 200mg in it. I’ve always liked writing. How to get Noah to write a little bit every day? How do I get him to want it? How do I plant a seed in Noah?
+Noah likes DnD, video games, guns, his weed pen, youtube. Deathklok
+The induction needs more water. Simply more. It will go next to Kapton outside.
+Meeting with my new project team today at 11:30. They are presumably in New York.
+What is a question?
+What is a question which matters to you?
+The smaller induction will be the one we use for early development. I’ve ordered the cord and cord grip to get it working. Next week I should have copper tube, I have the flare fittings, but I need a bunch more flare nuts. I PRd the flare nuts.
+The TiH2 plus stopoff Yttria is a question I have. It is something which I, as a scientist, wish to understand. I’ll check on the diffusion bonding 446 because I, as a scientist, wish to understand that. I can do whatever as long as I, as a scientist, ask questions that I want to know the answers to, and learn the answers to those questions.
+I missed a meeting. The first meeting. Oops.
+
 ## 0.1 MPa to psi
 I cannot believe it. I have not written anything until now. This morning began with induction, and physics. And this afternoon began with induction, and physics.
 This problem is cursing me. It is literally just doing a math proof from a limited number of equations, substituting and such. Should be easy. The other problem, the free expansion, is more difficult, and an actual problem, with conceptual understanding required. I need to give the symbol one another go, and then the conceptual free-expansion one a go as well. 

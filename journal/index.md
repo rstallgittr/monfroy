@@ -7,6 +7,13 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## Physics is nitpicky
+We’re on sharepoint now. We’ve technically completed a physics problem, but claude basically did it for me. I need to read the question more carefully. I did notice that immediately, but didn’t trust my gut. Gauge pressure vs normal pressure.
+Computer music. I really don’t want to be here right now. How can I get through the day, technically blending in? I need to wake up, and get centered a little bit. Work on some induction, that gets me going. Touch my other projects.
+Thank god I started this this morning. Otherwise I’d be deep in shit. My journey for electronic music continues. Toshimaru Nakamura. SuperCollider. Fredrik Oloffsson. Marloes de Valk.
+Mooving to Dutch land. Rotterdam clearly.
+Tomorrow I have to make up a reasonable question to Corning, I’ll continue on my metallography job. Update the storybook on CIA, and check on my Super VII Run. Till then, peace out mothafuckas. Dance class tonight with the homies. Stop by at 2932 for my duty. Then Music time. Synth, whatever. Try the guitar as an input for the synth.
+
 ## Did you exchange a walk on part in the war, for a lead role in a cage?
 Happy Friday! Started the morning with an Ube cookie curtesy of Sheralyn by way of Lisa Fields. Wes said it has 200mg in it. I’ve always liked writing. How to get Noah to write a little bit every day? How do I get him to want it? How do I plant a seed in Noah?
 Noah likes DnD, video games, guns, his weed pen, youtube. Deathklok

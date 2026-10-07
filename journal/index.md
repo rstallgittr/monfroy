@@ -7,6 +7,13 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## Overweight in The Netherlands
+I have a BMI of 25. That is considered overweight in the Netherlands. 6 foot, 185 pounds. So I’m likely slightly under that, being 6’1” and 185 pounds. Let me go weigh myself to check: 192, BMI 25
+Your goal is to do each with grace.
+Vish has Jim living in his head, rent free. He is scared.
+Backwater. Their minds rarely move in a line. Resign to be trapped on a leaf in the vine.
+I sent questions to Corning. They are real questions. I worked on metallography, made Carl happy, and existed. I have to make sure to walk and talk gracefully. I need to try to ride a horse so that I may practice that too. I want to do some physics before I go. I want to keep working on transcribing the rest of By this River.
+
 ## Physics is nitpicky
 We’re on sharepoint now. We’ve technically completed a physics problem, but claude basically did it for me. I need to read the question more carefully. I did notice that immediately, but didn’t trust my gut. Gauge pressure vs normal pressure.
 Computer music. I really don’t want to be here right now. How can I get through the day, technically blending in? I need to wake up, and get centered a little bit. Work on some induction, that gets me going. Touch my other projects.

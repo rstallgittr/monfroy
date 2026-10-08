@@ -7,6 +7,15 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## Remember how that felt
+I had planned an escape, and I was ripped away from it by a lashing of responsibility. The universe is encouraging me to do my thing, but society is holding me prisoner, sinking it’s claws deep into me so that by the time I feel I’m ready to leave, I’ve already been half consumed.
+I was saved from doomscrolling, I did my exercise, felt better, then read the internet for too long. It was really only 30 or less of directionless surfing, but you gotta go look at all the things you’ve saved from time to time. The rest was exposure to SuperCollider, and the infinite complexity of code. I was tempted to ask claude for help understanding/implementing, and I stopped myself. What can claude do that I can’t also do poorly? That’s the whole point of learning something: to struggle against it and develop your understanding slowly. I’ve been slacking on the guitar. Every day I’m tempted to cheat: the synth, the coding, cheating myself out of the time I need to learn something. 
+Focus on the good though. There is so much more time for learning. I just have to disengage, rip the claws out. There is no easing them out; as you slide one out the rest sink in deeper. I have until February to plot my escape.
+Remember how that felt
+
+I’m gonna do it next week. Just give me a date, SFMOMA
+I don’t get sick, but today in particular I could use a nap. I’mm leaving way early. Peace
+
 ## Always back to posture
 The wall test is very enlightening. It shows off the major discrepancy. My neck is stooped forward. Chin tucks. Exactly what I imagined. I figured this all out on my own. Now I just keep working at it. The pulled from crown of head, too.
 My whole upper spine and neck is tired from all the work I’ve given it this morning. The key is do that again tomorrow, and again after that. It is simply about returning my body to the natural way a body is by someone who is fit and strong. Like Leonardo.

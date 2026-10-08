@@ -7,6 +7,14 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## Always back to posture
+The wall test is very enlightening. It shows off the major discrepancy. My neck is stooped forward. Chin tucks. Exactly what I imagined. I figured this all out on my own. Now I just keep working at it. The pulled from crown of head, too.
+My whole upper spine and neck is tired from all the work I’ve given it this morning. The key is do that again tomorrow, and again after that. It is simply about returning my body to the natural way a body is by someone who is fit and strong. Like Leonardo.
+Vish dipped on the meeting. I have to print the sample parts, and make sure I get the braze material ASAP. Do the rest later.
+Braze alloy Braze alloy Braze Alloy. The rest can wait. The powerpoint for the stacking/braze tooling.
+
+I’m really bummed I cant play hooky tomorrow. I really wanted to. My thing is postponed. I’ll get there. I swear. At some point there is a cutoff.
+
 ## Overweight in The Netherlands
 I have a BMI of 25. That is considered overweight in the Netherlands. 6 foot, 185 pounds. So I’m likely slightly under that, being 6’1” and 185 pounds. Let me go weigh myself to check: 192, BMI 25
 Your goal is to do each with grace.

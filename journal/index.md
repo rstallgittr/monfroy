@@ -7,6 +7,13 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## New Customers and we did good
+Successful, did the job, provided them good information on design so that they may trust us with the job, assuming we can get the cost down. Feeling ok, need to keep my head up.
+Phone call with glass people next. What do I need to know? 5 minutes to think about it, then I have the rest of the day to do whatever. Can’t wait for that.
+I’m hitting a wall. Time to get off campus, come back, get some coffee and do some cad before I leave to remain somewhat productive. Really all I need to do is make sure the things get ordered.
+I don’t want to be here right now. The disease of productivity. I need some tai chi right now. I’ll do that and come back and figure out what’s next.
+Another day in the books.
+
 ## Remember how that felt
 I had planned an escape, and I was ripped away from it by a lashing of responsibility. The universe is encouraging me to do my thing, but society is holding me prisoner, sinking it’s claws deep into me so that by the time I feel I’m ready to leave, I’ve already been half consumed.
 I was saved from doomscrolling, I did my exercise, felt better, then read the internet for too long. It was really only 30 or less of directionless surfing, but you gotta go look at all the things you’ve saved from time to time. The rest was exposure to SuperCollider, and the infinite complexity of code. I was tempted to ask claude for help understanding/implementing, and I stopped myself. What can claude do that I can’t also do poorly? That’s the whole point of learning something: to struggle against it and develop your understanding slowly. I’ve been slacking on the guitar. Every day I’m tempted to cheat: the synth, the coding, cheating myself out of the time I need to learn something. 

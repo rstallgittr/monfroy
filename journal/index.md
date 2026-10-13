@@ -7,6 +7,16 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## The infinite Temperature
+94b1ff is the hex code.
+I’d forgotten today. I was locked in and not distracted by Vish. Still on this adventure. Thinking about Van living. Thinking about taking showers at Pipe works, and the sauna, and the fact that to take a shower, I must return to Pipe works before 10pm. Until there is a late night shower to be found. A so-called “drunk shower”. That is a funny concept. The late night shower is inevitably a drunk shower. It will take a leap. I need to start getting rid of my items ASAP.
+Good day today, after a good day yesterday. I’d like to do some physics, and find a spooky story for tonight. I can find one in the Irish folk tales book methinks.
+If not the Irish folktales, where should I find a suitable story? I shall learn that. My bank of stories will grow large.
+Gotta take a dump.
+C/C composites, induction and conduction, progress by myself.
+Superconductivity at room temperatures. Study It.
+So far the conductivity chapter is lame. I should’ve gone deeper. It’ll take me deeper I know. I have to find a spooky tale, though, and that is blocking me from physics right now.
+
 ## New Customers and we did good
 Successful, did the job, provided them good information on design so that they may trust us with the job, assuming we can get the cost down. Feeling ok, need to keep my head up.
 Phone call with glass people next. What do I need to know? 5 minutes to think about it, then I have the rest of the day to do whatever. Can’t wait for that.

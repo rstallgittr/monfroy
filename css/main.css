@@ -5,7 +5,8 @@ body {
   font-family: 'Space Grotesk', system-ui, sans-serif; /* All text uses Space Grotesk with fallback */
   padding: 2rem;                                       /* Space inside the page edges */
   margin: 0;                                           /* Remove default browser margin */
-  background: #f6f7f9;                                 /* Light gray background for site */
+  background: #94b1ff;                                 /* Light gray background for site */
+  /* f6f7f9*/
   color: #111;                                         /* Default text color for readability */
 }
 

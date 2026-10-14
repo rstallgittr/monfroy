@@ -7,6 +7,15 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## Straw Colored
+It is consistent with 340C. Electronics week in SF. Superconductors. All around. Do your homework. Every Second Counts.
+Thermal expansion introduces hot geometry. Must design a braze for the hot geometry.
+What is the thermal profile for this ABA, which is powder mixture and not pre-alloyed? Check the email, and capture the guidance.
+I have now collected all of Vish’s work. I don’t like that, because now I’m tied down. I must rewrite that relationship, starting with this Monday, and my personal day to SF.
+I got dragged into stuff, which has distracted me from the work I have to do, which is make this program work, starting with defining the processes. 
+Back to Processing. Brazing to titanium is hard. It forms brittle intermetallics with everything. Brazing to it with CuSil forms Ti-Cu intermetallics. It prefers to be nickel plated or have Nb bonded to it and use precious metals braze alloys.
+Lots to do tomorrow. Actually not that much, but much of it is babysitting.
+
 ## The infinite Temperature
 94b1ff is the hex code.
 I’d forgotten today. I was locked in and not distracted by Vish. Still on this adventure. Thinking about Van living. Thinking about taking showers at Pipe works, and the sauna, and the fact that to take a shower, I must return to Pipe works before 10pm. Until there is a late night shower to be found. A so-called “drunk shower”. That is a funny concept. The late night shower is inevitably a drunk shower. It will take a leap. I need to start getting rid of my items ASAP.

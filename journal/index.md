@@ -7,6 +7,16 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## Babysitting day
+Call Humberto, call Morgan, get braze fixture ordered. Lame ass things.
+Mitsubishi Power. Found in Idaho. Website as a metaphor. I would like to finish reading that. I’ll go hide and finish it. Website as a puddle. You look at it, and it reflects calmly back at you, and then it disappears. Work cut out for me.
+Get the stuff moving. It’s annoying work. I’d like time to ponder. This does not give me that luxury.
+Follow my curiosity. Remember that always. My bliss. Follow it. My bliss right now is telling me to go crawl around on the ground, then figure out what to actually do.
+Let’s make induction coils.
+I made a coil. It’s both easier and harder than I imagined. Good opportunity for sculpture.
+There’s facilities to be laid out, power to be routed, parts to be induction heated with multiple power supplies. Carl said our inexperience with induction is part of what gives us an advantage at learning it’s capability for us.
+Tomorrow I just keep chipping away at these projects, talk to Humberto and such.
+
 ## Straw Colored
 It is consistent with 340C. Electronics week in SF. Superconductors. All around. Do your homework. Every Second Counts.
 Thermal expansion introduces hot geometry. Must design a braze for the hot geometry.

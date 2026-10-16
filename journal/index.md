@@ -7,6 +7,12 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## Could've used a powwow on our end before
+Delivering news to the customer. Nonetheless, it was DISCOVERY. It’s buying us time. We carved out an easier portion of the pie for ourselves today. Make it easy on us, and we make it cheaper for the customer. We can do the part how it is best done, and they’ll be happier with the result.
+Now to get ready for the next thing. Shipping. Then I can be free for the afternoon.
+In 1500s English schools, they were made to explain things in as many ways as possible, for the more words you are able to use in as many different ways to describe one thing, the greater your understanding of that thing. The process of expanding your vocabulary on a subject also expands your possibility of thought on that subject and all subjects.
+Time for Cabaret 1
+
 ## I'm all over the place here
 I meant for the meeting to be Friday, I meant that you are stronger because of it, I meant to keep those books safe. Cringe a little bit, but you’re doing your best. Just be you. The privilege of a lifetime is being yourself. I love my life, and I want to continue on my path.
 Today I need to check up on Humberto, and mostly prepare battery for next steps. Prelim leak check design, slides on what we expect to learn from experiment and customer feedback.

@@ -7,6 +7,13 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## I'm all over the place here
+I meant for the meeting to be Friday, I meant that you are stronger because of it, I meant to keep those books safe. Cringe a little bit, but you’re doing your best. Just be you. The privilege of a lifetime is being yourself. I love my life, and I want to continue on my path.
+Today I need to check up on Humberto, and mostly prepare battery for next steps. Prelim leak check design, slides on what we expect to learn from experiment and customer feedback.
+Let me get prepared for the meeting tomorrow, and from there I can spend the rest of the day studying physics and making coils. Follow my bliss, but get there responsibly. It’s all I can do for now. Whatever I can do to get me through the first half of the day I shall do: coffee, stretching, walking, music. Let’s try some music to lock in and get through this first part. Coffee and music.
+This is killing me LOL. I cannot make good progress because I need to put information in a powerpoint. Website as shelf is something interesting. You can create all kinds of interesting juxtapositions based on the information you choose to put next to other information. You may shift these in and out of the location depending on what you feel at the time. There may be an archive of what the website used to be. Or maybe it’s ephemeral. That idea has credibility too.
+At least be the copper artist I am supposed to be. That is the most fun part of the day. I got one more in me. I really gotta get the parts to Humberto.
+
 ## Babysitting day
 Call Humberto, call Morgan, get braze fixture ordered. Lame ass things.
 Mitsubishi Power. Found in Idaho. Website as a metaphor. I would like to finish reading that. I’ll go hide and finish it. Website as a puddle. You look at it, and it reflects calmly back at you, and then it disappears. Work cut out for me.

@@ -7,6 +7,12 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## I quit my job
+I quit my job today. One of my things to do on my steps to dawghood. What the hell should I be doing the rest of my time here? I have no clue. It is an exhilarating feeling, though. There are so many possibilities. I have so many people to annoy! So many labs and random people to visit!
+So much Titanium I will not get to braze! Well, when one door closes.
+There’s so many more, greater, more practical problems which will enrich my life.
+Cannot knock the smile off me. So much excitement! What the hell??
+
 ## Could've used a powwow on our end before
 Delivering news to the customer. Nonetheless, it was DISCOVERY. It’s buying us time. We carved out an easier portion of the pie for ourselves today. Make it easy on us, and we make it cheaper for the customer. We can do the part how it is best done, and they’ll be happier with the result.
 Now to get ready for the next thing. Shipping. Then I can be free for the afternoon.

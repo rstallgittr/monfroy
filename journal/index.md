@@ -7,6 +7,15 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## Begins the Transition
+Now I actually must begin the transition of making sure anything I was working on is carried over by someone as I leave. This means the few projects I was on, my DBBE is wrapped, my W drive is in good useful condition, my work is tallied, etc.
+Where do I find the motivation, however? I think I have to sit with my coffee for a bit longer to find the care to start this all.
+Almost nobody knows still. That will change, according to that rule, the Sigmoid function, or S-curve. That is the shape of the learning of my departure for the company.
+I must keep reminding myself. Is this the end-all-be-all? Is it the best possible thing for me? I don’t know that that’s not true for certain, but I do actually know for certain that it is not true. This is not the end-all-be-all, nor the best possible thing for me. I don’t even know myself, truly. I don’t what I really love. I don’t know what my greatest skills are. I don’t know who my people are. I’ve gotten by this far on adopted loves, dressing up shaky productivity skills with good people skills and attitude, and the same people I’ve always known. Making new friends is only as good as keeping those new friends.
+Therefore, because I know this certainly to not be the best thing for me, and being that I have no clue what the best thing for me might be, but I am starting to get a better understanding about what interests me, I must pursue those interests, pull threads, and see what they reveal/unravel/lead me to.
+I’m giving up metallurgy for the time being. My curiosity shall be directed elsewhere, toward a direction where I can make more progress, more ground.
+Everything is about different ways to describe and think about a single topic. That is where learning, growth, new connections are made. Focus on that. I believe this journal goes into new section of journal. Labeled “While at VPE” or something similar.
+
 ## I quit my job
 I quit my job today. One of my things to do on my steps to dawghood. What the hell should I be doing the rest of my time here? I have no clue. It is an exhilarating feeling, though. There are so many possibilities. I have so many people to annoy! So many labs and random people to visit!
 So much Titanium I will not get to braze! Well, when one door closes.

@@ -7,6 +7,12 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## I still have no clue what to do here
+Really no motivation for anything at all. I should work on cleaning the lab. It’s the easiest way to do something??
+Keep on working in the lab to leave it ready for the next individual to make progress.
+You can get what you want or you can just get old.
+Demosthenes, Diogenes, Mark Watney
+
 ## Begins the Transition
 Now I actually must begin the transition of making sure anything I was working on is carried over by someone as I leave. This means the few projects I was on, my DBBE is wrapped, my W drive is in good useful condition, my work is tallied, etc.
 Where do I find the motivation, however? I think I have to sit with my coffee for a bit longer to find the care to start this all.

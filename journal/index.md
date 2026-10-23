@@ -7,6 +7,14 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## Hawta knows it
+Hawta is Kurdish. Kurdistan is 40 million people who have no country. Turkey, Syria, Iran, Iraq. He says that Hormuz was to choke Europe into starvation and conflict, and that it’s Europeans vs Immigrants (or it’s being played that way…) 
+He also says that people who travel around have an expanded mind compared to those people who stay in one place. That is what I must achieve in myself. Find a way to do that. I can do it in America for now. I must go to Europe in all this strife though. Must see it at its worst. How else will I understand it otherwise?
+It has never been a better time to be a traveler. It’s the point where the old world dies, and we get to decide how to coax the new world into existence. Coaxing is all about rewarding good behavior. Just like I was telling Vish. Lay hooks out, each one leading to a good outcome, and when they are taken, encourage movement in the direction of the line.
+Think like the people whom you are trying to coax. Discover what matters to them. Use that as the entry point. The goal is to expand the vision of people, nothing else. People with expanded vision are more adaptable, open to change, cooperative, and wish to make the world better. However, like an airplane oxygen mask, you must put your own on first before attempting to help anyone else. 
+This would be a good entry to put in the “transition” journal but I think it’s good to leave it here, near the very top of the “Metallurgist” journal. It shows where I’m jumping off from.
+Peace out for the afternoon.
+
 ## I still have no clue what to do here
 Really no motivation for anything at all. I should work on cleaning the lab. It’s the easiest way to do something??
 Keep on working in the lab to leave it ready for the next individual to make progress.

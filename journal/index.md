@@ -7,6 +7,12 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## What happened to the parking ticket?
+Subsume. Do I dare look it up? I don’t dare. Consistent vs subsistent. Constitute vs Substitute.
+Kanpur. Read about the war of 1971 and Bangladesh and Pakistan.
+Leave this place now. I have nothing to do, and am just kickin shit, learning about Vish’s life. Vish is a chartist.
+Utter Pradesh. West Bengal
+
 ## Hawta knows it
 Hawta is Kurdish. Kurdistan is 40 million people who have no country. Turkey, Syria, Iran, Iraq. He says that Hormuz was to choke Europe into starvation and conflict, and that it’s Europeans vs Immigrants (or it’s being played that way…) 
 He also says that people who travel around have an expanded mind compared to those people who stay in one place. That is what I must achieve in myself. Find a way to do that. I can do it in America for now. I must go to Europe in all this strife though. Must see it at its worst. How else will I understand it otherwise?

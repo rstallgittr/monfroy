@@ -7,6 +7,9 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## Nothing much today
+Nothing Much today. Go home and read. I watched the You can see everything movie.
+
 ## What happened to the parking ticket?
 Subsume. Do I dare look it up? I don’t dare. Consistent vs subsistent. Constitute vs Substitute.
 Kanpur. Read about the war of 1971 and Bangladesh and Pakistan.

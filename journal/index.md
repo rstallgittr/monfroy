@@ -7,6 +7,9 @@ show_home_button: true
 # Journal
 
 Read my inner thoughts and insecurities I voice while at work.
+## Eric is a good boss
+Maybe I can become a spy in Washington DC. I need to travel the world
+
 ## Nothing much today
 Nothing Much today. Go home and read. I watched the You can see everything movie.
 
